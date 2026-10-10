@@ -1,0 +1,23 @@
+```
+# SpringBoot后端
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.idea/
+*.iml
+*.class
+*.jar
+application.yml
+application-dev.yml
+application-prod.yml
+
+# Vue前端
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+.vscode/
+
+#系统文件
+.DS_Store
+Thumbs.db
+```
