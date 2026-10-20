@@ -64,6 +64,9 @@ export default {
     },
     initPie(data){
       let chartDom = document.getElementById('main');
+      if (!chartDom) {
+        return;
+      }
       let myChart = echarts.init(chartDom);
       let option;
 

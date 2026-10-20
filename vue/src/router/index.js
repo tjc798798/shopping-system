@@ -25,7 +25,7 @@ const routes = [
       { path: 'goods', name: 'Goods', meta: { name: '商品信息' }, component: () => import('../views/manager/Goods.vue') },
       { path: 'carousel', name: 'Carousel', meta: { name: '轮播图信息' }, component: () => import('../views/manager/Carousel.vue') },
       { path: 'collect', name: 'Collect', meta: { name: '收藏信息' }, component: () => import('../views/manager/Collect.vue') },
-      { path: 'orders', name: 'Orders', meta: { name: '订单信息' }, component: () => import('../views/manager/Collect.vue') },
+      { path: 'orders', name: 'Orders', meta: { name: '订单信息' }, component: () => import('../views/manager/Orders.vue') },
     ]
   },
   {
@@ -41,6 +41,7 @@ const routes = [
       { path: 'goodsDetail', name: 'GoodsDetail', meta: { name: '商品详情' }, component: () => import('../views/front/GoodsDetail.vue') },
       { path: 'collect', name: 'Collect', meta: { name: '收藏信息' }, component: () => import('../views/front/Collect.vue') },
       { path: 'orders', name: 'Orders', meta: { name: '我的订单' }, component: () => import('../views/front/Orders.vue') },
+      { path: 'aiAssistant', name: 'AiAssistant', meta: { name: 'AI助手' }, component: () => import('../views/front/AiAssistant.vue') },
     ]
   },
   { path: '/login', name: 'Login', meta: { name: '登录' }, component: () => import('../views/Login.vue') },

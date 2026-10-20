@@ -69,6 +69,7 @@ export default {
         {text: "首页", path: '/front/home'},
         {text: "全部商品", path: '/front/goods'},
         {text: "个人中心", path: '/front/person'},
+        {text: "AI助手", path: '/front/aiAssistant'},
       ],
     }
   },

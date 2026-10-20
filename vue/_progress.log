@@ -53100,3 +53100,3446 @@
 0.99|cache|shutdown MemoryCachePlugin
 0.99|cache|shutdown
 1||
+0.03|setup|watch run
+0.03|setup|watch run webpack-dev-middleware
+0.03|setup|watch run
+0.04|setup|normal module factory
+0.04|setup|normal module factory CaseSensitivePathsPlugin
+0.04|setup|normal module factory
+0.05|setup|context module factory
+0.05|setup|context module factory
+0.06|setup|before compile
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile
+0.07|setup|compile
+0.07|setup|compile ExternalsPlugin
+0.07|setup|compile
+0.08|setup|compilation
+0.08|setup|compilation HtmlWebpackPlugin
+0.08|setup|compilation CopyPlugin
+0.08|setup|compilation ArrayPushCallbackChunkFormatPlugin
+0.08|setup|compilation JsonpChunkLoadingPlugin
+0.08|setup|compilation StartupChunkDependenciesPlugin
+0.08|setup|compilation ImportScriptsChunkLoadingPlugin
+0.08|setup|compilation WorkerPlugin
+0.08|setup|compilation SplitChunksPlugin
+0.08|setup|compilation ResolverCachePlugin
+0.08|setup|compilation
+0.09|setup|compilation
+0.09|setup|compilation vue-loader-plugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ExternalsPlugin
+0.09|setup|compilation ChunkPrefetchPreloadPlugin
+0.09|setup|compilation ModuleInfoHeaderPlugin
+0.09|setup|compilation EvalSourceMapDevToolPlugin
+0.09|setup|compilation JavascriptModulesPlugin
+0.09|setup|compilation JsonModulesPlugin
+0.09|setup|compilation AssetModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation RuntimePlugin
+0.09|setup|compilation InferAsyncModulesPlugin
+0.09|setup|compilation DataUriPlugin
+0.09|setup|compilation FileUriPlugin
+0.09|setup|compilation CompatibilityPlugin
+0.09|setup|compilation HarmonyModulesPlugin
+0.09|setup|compilation AMDPlugin
+0.09|setup|compilation RequireJsStuffPlugin
+0.09|setup|compilation CommonJsPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation NodeStuffPlugin
+0.09|setup|compilation APIPlugin
+0.09|setup|compilation ExportsInfoApiPlugin
+0.09|setup|compilation WebpackIsIncludedPlugin
+0.09|setup|compilation ConstPlugin
+0.09|setup|compilation UseStrictPlugin
+0.09|setup|compilation RequireIncludePlugin
+0.09|setup|compilation RequireEnsurePlugin
+0.09|setup|compilation RequireContextPlugin
+0.09|setup|compilation ImportPlugin
+0.09|setup|compilation ImportMetaContextPlugin
+0.09|setup|compilation SystemPlugin
+0.09|setup|compilation ImportMetaPlugin
+0.09|setup|compilation URLPlugin
+0.09|setup|compilation DefaultStatsFactoryPlugin
+0.09|setup|compilation DefaultStatsPresetPlugin
+0.09|setup|compilation DefaultStatsPrinterPlugin
+0.09|setup|compilation JavascriptMetaInfoPlugin
+0.09|setup|compilation EnsureChunkConditionsPlugin
+0.09|setup|compilation RemoveEmptyChunksPlugin
+0.09|setup|compilation MergeDuplicateChunksPlugin
+0.09|setup|compilation SideEffectsFlagPlugin
+0.09|setup|compilation FlagDependencyExportsPlugin
+0.09|setup|compilation NamedModuleIdsPlugin
+0.09|setup|compilation NamedChunkIdsPlugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation TemplatedPathPlugin
+0.09|setup|compilation RecordIdsPlugin
+0.09|setup|compilation WarnCaseSensitiveModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ProvidePlugin
+0.09|setup|compilation HotModuleReplacementPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation
+0.1|building|
+0.1|building|0/1 entries 0/0 dependencies 0/0 modules
+0.1|building|0/4 entries 1/4 dependencies 0/0 modules
+0.1|building|import loader ./node_modules/babel-loader/lib/index.js
+0.1|building|0/4 entries 2/7 dependencies 0/2 modules
+0.23750000000000004|building|1/4 entries 11/12 dependencies 3/7 modules
+0.23750000000000002|building|import loader ./node_modules/@vue/vue-loader-v15/lib/index.js
+0.23750000000000002|building|1/4 entries 24/46 dependencies 5/18 modules
+0.23750000000000004|building|import loader ./node_modules/vue-style-loader/index.js
+0.23750000000000004|building|import loader ./node_modules/css-loader/dist/cjs.js
+0.23750000000000004|building|import loader ./node_modules/postcss-loader/dist/cjs.js
+0.23750000000000004|building|1/4 entries 49/61 dependencies 7/33 modules
+0.23750000000000004|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/pitcher.js
+0.23750000000000004|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js
+0.23750000000000004|building|1/4 entries 59/128 dependencies 7/39 modules
+0.23750000000000002|building|1/4 entries 67/174 dependencies 12/43 modules
+0.23750000000000004|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js
+0.23750000000000004|building|1/4 entries 551/559 dependencies 33/270 modules
+0.375|building|2/4 entries 552/559 dependencies 36/270 modules
+0.375|building|2/4 entries 800/849 dependencies 133/337 modules
+0.375|building|2/4 entries 1165/1200 dependencies 247/397 modules
+0.375|building|2/4 entries 1478/1500 dependencies 323/479 modules
+0.5125|building|3/4 entries 1623/1644 dependencies 364/563 modules
+0.5125000000000001|building|3/4 entries 1717/2004 dependencies 384/600 modules
+0.5125000000000001|building|3/4 entries 1879/2073 dependencies 392/700 modules
+0.5125000000000001|building|3/4 entries 1969/2100 dependencies 394/759 modules
+0.5125000000000001|building|3/4 entries 2272/2400 dependencies 431/859 modules
+0.5125000000000001|building|3/4 entries 2800/2931 dependencies 460/940 modules
+0.5125000000000001|building|3/4 entries 2969/3000 dependencies 470/983 modules
+0.5125000000000001|building|3/4 entries 3476/3500 dependencies 495/1039 modules
+0.5125000000000001|building|3/4 entries 4000/4148 dependencies 712/1063 modules
+0.5125|building|3/4 entries 4497/4500 dependencies 1077/1139 modules
+0.6499999999999998|building|4/4 entries 4672/4672 dependencies 1163/1163 modules
+0.65|building|
+0.69|building|finish
+0.69|building|finish
+0.7|sealing|finish module graph
+0.7|sealing|finish module graph ResolverCachePlugin
+0.7|sealing|finish module graph InferAsyncModulesPlugin
+0.7|sealing|finish module graph FlagDependencyExportsPlugin
+0.7|sealing|finish module graph
+0.7064102564102563|sealing|plugins
+0.7064102564102563|sealing|plugins WarnCaseSensitiveModulesPlugin
+0.7064102564102563|sealing|plugins
+0.7128205128205127|sealing|dependencies optimization
+0.7128205128205127|sealing|dependencies optimization SideEffectsFlagPlugin
+0.7128205128205127|sealing|dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7256410256410256|sealing|chunk graph
+0.7256410256410256|sealing|chunk graph
+0.732051282051282|sealing|after chunk graph
+0.732051282051282|sealing|after chunk graph
+0.7384615384615384|sealing|optimizing
+0.7384615384615384|sealing|optimizing
+0.7448717948717948|sealing|module optimization
+0.7448717948717948|sealing|module optimization
+0.7512820512820513|sealing|after module optimization
+0.7512820512820513|sealing|after module optimization
+0.7576923076923077|sealing|chunk optimization
+0.7576923076923077|sealing|chunk optimization EnsureChunkConditionsPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization MergeDuplicateChunksPlugin
+0.7576923076923077|sealing|chunk optimization SplitChunksPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7705128205128204|sealing|module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7961538461538461|sealing|module reviving
+0.7961538461538461|sealing|module reviving RecordIdsPlugin
+0.7961538461538461|sealing|module reviving
+0.8025641025641025|sealing|before module ids
+0.8025641025641025|sealing|before module ids
+0.808974358974359|sealing|module ids
+0.808974358974359|sealing|module ids NamedModuleIdsPlugin
+0.808974358974359|sealing|module ids
+0.8153846153846154|sealing|module id optimization
+0.8153846153846154|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8282051282051281|sealing|chunk reviving
+0.8282051282051281|sealing|chunk reviving RecordIdsPlugin
+0.8282051282051281|sealing|chunk reviving
+0.8346153846153845|sealing|before chunk ids
+0.8346153846153845|sealing|before chunk ids
+0.8410256410256409|sealing|chunk ids
+0.8410256410256409|sealing|chunk ids NamedChunkIdsPlugin
+0.8410256410256409|sealing|chunk ids
+0.8474358974358974|sealing|chunk id optimization
+0.8474358974358974|sealing|chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8602564102564102|sealing|record modules
+0.8602564102564102|sealing|record modules RecordIdsPlugin
+0.8602564102564102|sealing|record modules
+0.8666666666666666|sealing|record chunks
+0.8666666666666666|sealing|record chunks RecordIdsPlugin
+0.8666666666666666|sealing|record chunks
+0.8730769230769231|sealing|module hashing
+0.8730769230769231|sealing|module hashing
+0.8794871794871795|sealing|code generation
+0.8794871794871795|sealing|code generation
+0.8858974358974359|sealing|runtime requirements
+0.8858974358974359|sealing|runtime requirements
+0.8923076923076922|sealing|hashing
+0.8923076923076922|sealing|hashing
+0.8987179487179486|sealing|after hashing
+0.8987179487179486|sealing|after hashing
+0.905128205128205|sealing|record hash
+0.905128205128205|sealing|record hash
+0.9115384615384615|sealing|module assets processing
+0.9115384615384615|sealing|module assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9243589743589743|sealing|asset processing
+0.9243589743589743|sealing|asset processing copy-webpack-plugin
+0.9243589743589743|sealing|asset processing HotModuleReplacementPlugin
+0.9243589743589743|sealing|asset processing PersistentChildCompilerSingletonPlugin
+0.9243589743589743|sealing|asset processing HtmlWebpackPlugin
+0.9243589743589743|sealing|asset processing
+0.9307692307692308|sealing|after asset optimization
+0.9307692307692308|sealing|after asset optimization
+0.9371794871794872|sealing|recording
+0.9371794871794872|sealing|recording HotModuleReplacementPlugin
+0.9371794871794872|sealing|recording
+0.9435897435897436|sealing|after seal
+0.9435897435897436|sealing|after seal
+0.95|emitting|emit
+0.95|emitting|emit
+0.98|emitting|after emit
+0.98|emitting|after emit
+0.99|done|plugins
+0.99|done|plugins CaseSensitivePathsPlugin
+0.99|done|plugins FriendlyErrorsWebpackPlugin
+0.99|done|plugins vue-cli-service serve
+0.99|done|plugins webpack-dev-server
+0.99|done|plugins webpack-dev-middleware
+0.99|done|plugins
+0.99||
+0.99|cache|store build dependencies
+0.99|cache|store build dependencies
+0.99|cache|begin idle
+0.99|cache|begin idle
+1||
+0||
+0.01|cache|end idle
+0.01|cache|end idle
+0.03|setup|watch run
+0.03|setup|watch run webpack-dev-middleware
+0.03|setup|watch run
+0.04|setup|normal module factory
+0.04|setup|normal module factory CaseSensitivePathsPlugin
+0.04|setup|normal module factory
+0.05|setup|context module factory
+0.05|setup|context module factory
+0.06|setup|before compile
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile
+0.07|setup|compile
+0.07|setup|compile ExternalsPlugin
+0.07|setup|compile
+0.08|setup|compilation
+0.08|setup|compilation HtmlWebpackPlugin
+0.08|setup|compilation CopyPlugin
+0.08|setup|compilation ArrayPushCallbackChunkFormatPlugin
+0.08|setup|compilation JsonpChunkLoadingPlugin
+0.08|setup|compilation StartupChunkDependenciesPlugin
+0.08|setup|compilation ImportScriptsChunkLoadingPlugin
+0.08|setup|compilation WorkerPlugin
+0.08|setup|compilation SplitChunksPlugin
+0.08|setup|compilation ResolverCachePlugin
+0.08|setup|compilation
+0.09|setup|compilation
+0.09|setup|compilation vue-loader-plugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ExternalsPlugin
+0.09|setup|compilation ChunkPrefetchPreloadPlugin
+0.09|setup|compilation ModuleInfoHeaderPlugin
+0.09|setup|compilation EvalSourceMapDevToolPlugin
+0.09|setup|compilation JavascriptModulesPlugin
+0.09|setup|compilation JsonModulesPlugin
+0.09|setup|compilation AssetModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation RuntimePlugin
+0.09|setup|compilation InferAsyncModulesPlugin
+0.09|setup|compilation DataUriPlugin
+0.09|setup|compilation FileUriPlugin
+0.09|setup|compilation CompatibilityPlugin
+0.09|setup|compilation HarmonyModulesPlugin
+0.09|setup|compilation AMDPlugin
+0.09|setup|compilation RequireJsStuffPlugin
+0.09|setup|compilation CommonJsPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation NodeStuffPlugin
+0.09|setup|compilation APIPlugin
+0.09|setup|compilation ExportsInfoApiPlugin
+0.09|setup|compilation WebpackIsIncludedPlugin
+0.09|setup|compilation ConstPlugin
+0.09|setup|compilation UseStrictPlugin
+0.09|setup|compilation RequireIncludePlugin
+0.09|setup|compilation RequireEnsurePlugin
+0.09|setup|compilation RequireContextPlugin
+0.09|setup|compilation ImportPlugin
+0.09|setup|compilation ImportMetaContextPlugin
+0.09|setup|compilation SystemPlugin
+0.09|setup|compilation ImportMetaPlugin
+0.09|setup|compilation URLPlugin
+0.09|setup|compilation DefaultStatsFactoryPlugin
+0.09|setup|compilation DefaultStatsPresetPlugin
+0.09|setup|compilation DefaultStatsPrinterPlugin
+0.09|setup|compilation JavascriptMetaInfoPlugin
+0.09|setup|compilation EnsureChunkConditionsPlugin
+0.09|setup|compilation RemoveEmptyChunksPlugin
+0.09|setup|compilation MergeDuplicateChunksPlugin
+0.09|setup|compilation SideEffectsFlagPlugin
+0.09|setup|compilation FlagDependencyExportsPlugin
+0.09|setup|compilation NamedModuleIdsPlugin
+0.09|setup|compilation NamedChunkIdsPlugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation TemplatedPathPlugin
+0.09|setup|compilation RecordIdsPlugin
+0.09|setup|compilation WarnCaseSensitiveModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ProvidePlugin
+0.09|setup|compilation HotModuleReplacementPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation
+0.1|building|
+0.1|building|0/1 entries 0/0 dependencies 0/0 modules
+0.10331040412725712|building|1/4 entries 6/8 dependencies 7/6 modules
+0.15816852966466036|building|2/4 entries 32/106 dependencies 123/30 modules
+0.21728288907996565|building|3/4 entries 161/162 dependencies 248/138 modules
+0.3478073946689597|building|import loader ./node_modules/@vue/vue-loader-v15/lib/index.js
+0.3478073946689597|building|3/4 entries 204/204 dependencies 524/164 modules
+0.37665520206362857|building|import loader ./node_modules/babel-loader/lib/index.js
+0.37665520206362857|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js
+0.37665520206362857|building|3/4 entries 213/214 dependencies 585/172 modules
+0.38280309544282043|building|import loader ./node_modules/css-loader/dist/cjs.js
+0.38280309544282043|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js
+0.38280309544282043|building|import loader ./node_modules/postcss-loader/dist/cjs.js
+0.38280309544282043|building|3/4 entries 216/216 dependencies 598/174 modules
+0.38374892519346526|building|3/4 entries 216/216 dependencies 600/174 modules
+0.65|building|4/4 entries 219/219 dependencies 1163/177 modules
+0.65|building|
+0.69|building|finish
+0.69|building|finish
+0.7|sealing|finish module graph
+0.7|sealing|finish module graph ResolverCachePlugin
+0.7|sealing|finish module graph InferAsyncModulesPlugin
+0.7|sealing|finish module graph FlagDependencyExportsPlugin
+0.7|sealing|finish module graph
+0.7064102564102563|sealing|plugins
+0.7064102564102563|sealing|plugins WarnCaseSensitiveModulesPlugin
+0.7064102564102563|sealing|plugins
+0.7128205128205127|sealing|dependencies optimization
+0.7128205128205127|sealing|dependencies optimization SideEffectsFlagPlugin
+0.7128205128205127|sealing|dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7256410256410256|sealing|chunk graph
+0.7256410256410256|sealing|chunk graph
+0.732051282051282|sealing|after chunk graph
+0.732051282051282|sealing|after chunk graph
+0.7384615384615384|sealing|optimizing
+0.7384615384615384|sealing|optimizing
+0.7448717948717948|sealing|module optimization
+0.7448717948717948|sealing|module optimization
+0.7512820512820513|sealing|after module optimization
+0.7512820512820513|sealing|after module optimization
+0.7576923076923077|sealing|chunk optimization
+0.7576923076923077|sealing|chunk optimization EnsureChunkConditionsPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization MergeDuplicateChunksPlugin
+0.7576923076923077|sealing|chunk optimization SplitChunksPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7705128205128204|sealing|module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7961538461538461|sealing|module reviving
+0.7961538461538461|sealing|module reviving RecordIdsPlugin
+0.7961538461538461|sealing|module reviving
+0.8025641025641025|sealing|before module ids
+0.8025641025641025|sealing|before module ids
+0.808974358974359|sealing|module ids
+0.808974358974359|sealing|module ids NamedModuleIdsPlugin
+0.808974358974359|sealing|module ids
+0.8153846153846154|sealing|module id optimization
+0.8153846153846154|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8282051282051281|sealing|chunk reviving
+0.8282051282051281|sealing|chunk reviving RecordIdsPlugin
+0.8282051282051281|sealing|chunk reviving
+0.8346153846153845|sealing|before chunk ids
+0.8346153846153845|sealing|before chunk ids
+0.8410256410256409|sealing|chunk ids
+0.8410256410256409|sealing|chunk ids NamedChunkIdsPlugin
+0.8410256410256409|sealing|chunk ids
+0.8474358974358974|sealing|chunk id optimization
+0.8474358974358974|sealing|chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8602564102564102|sealing|record modules
+0.8602564102564102|sealing|record modules RecordIdsPlugin
+0.8602564102564102|sealing|record modules
+0.8666666666666666|sealing|record chunks
+0.8666666666666666|sealing|record chunks RecordIdsPlugin
+0.8666666666666666|sealing|record chunks
+0.8730769230769231|sealing|module hashing
+0.8730769230769231|sealing|module hashing
+0.8794871794871795|sealing|code generation
+0.8794871794871795|sealing|code generation
+0.8858974358974359|sealing|runtime requirements
+0.8858974358974359|sealing|runtime requirements
+0.8923076923076922|sealing|hashing
+0.8923076923076922|sealing|hashing
+0.8987179487179486|sealing|after hashing
+0.8987179487179486|sealing|after hashing
+0.905128205128205|sealing|record hash
+0.905128205128205|sealing|record hash
+0.9115384615384615|sealing|module assets processing
+0.9115384615384615|sealing|module assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9243589743589743|sealing|asset processing
+0.9243589743589743|sealing|asset processing copy-webpack-plugin
+0.9243589743589743|sealing|asset processing HotModuleReplacementPlugin
+0.9243589743589743|sealing|asset processing PersistentChildCompilerSingletonPlugin
+0.9243589743589743|sealing|asset processing HtmlWebpackPlugin
+0.9243589743589743|sealing|asset processing
+0.9307692307692308|sealing|after asset optimization
+0.9307692307692308|sealing|after asset optimization
+0.9371794871794872|sealing|recording
+0.9371794871794872|sealing|recording HotModuleReplacementPlugin
+0.9371794871794872|sealing|recording
+0.9435897435897436|sealing|after seal
+0.9435897435897436|sealing|after seal
+0.95|emitting|emit
+0.95|emitting|emit
+0.98|emitting|after emit
+0.98|emitting|after emit
+0.99|done|plugins
+0.99|done|plugins CaseSensitivePathsPlugin
+0.99|done|plugins FriendlyErrorsWebpackPlugin
+0.99|done|plugins vue-cli-service serve
+0.99|done|plugins webpack-dev-server
+0.99|done|plugins webpack-dev-middleware
+0.99|done|plugins
+0.99||
+0.99|cache|store build dependencies
+0.99|cache|store build dependencies
+0.99|cache|begin idle
+0.99|cache|begin idle
+1||
+0||
+0.01|cache|end idle
+0.01|cache|end idle
+0.03|setup|watch run
+0.03|setup|watch run webpack-dev-middleware
+0.03|setup|watch run
+0.04|setup|normal module factory
+0.04|setup|normal module factory CaseSensitivePathsPlugin
+0.04|setup|normal module factory
+0.05|setup|context module factory
+0.05|setup|context module factory
+0.06|setup|before compile
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile
+0.07|setup|compile
+0.07|setup|compile ExternalsPlugin
+0.07|setup|compile
+0.08|setup|compilation
+0.08|setup|compilation HtmlWebpackPlugin
+0.08|setup|compilation CopyPlugin
+0.08|setup|compilation ArrayPushCallbackChunkFormatPlugin
+0.08|setup|compilation JsonpChunkLoadingPlugin
+0.08|setup|compilation StartupChunkDependenciesPlugin
+0.08|setup|compilation ImportScriptsChunkLoadingPlugin
+0.08|setup|compilation WorkerPlugin
+0.08|setup|compilation SplitChunksPlugin
+0.08|setup|compilation ResolverCachePlugin
+0.08|setup|compilation
+0.09|setup|compilation
+0.09|setup|compilation vue-loader-plugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ExternalsPlugin
+0.09|setup|compilation ChunkPrefetchPreloadPlugin
+0.09|setup|compilation ModuleInfoHeaderPlugin
+0.09|setup|compilation EvalSourceMapDevToolPlugin
+0.09|setup|compilation JavascriptModulesPlugin
+0.09|setup|compilation JsonModulesPlugin
+0.09|setup|compilation AssetModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation RuntimePlugin
+0.09|setup|compilation InferAsyncModulesPlugin
+0.09|setup|compilation DataUriPlugin
+0.09|setup|compilation FileUriPlugin
+0.09|setup|compilation CompatibilityPlugin
+0.09|setup|compilation HarmonyModulesPlugin
+0.09|setup|compilation AMDPlugin
+0.09|setup|compilation RequireJsStuffPlugin
+0.09|setup|compilation CommonJsPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation NodeStuffPlugin
+0.09|setup|compilation APIPlugin
+0.09|setup|compilation ExportsInfoApiPlugin
+0.09|setup|compilation WebpackIsIncludedPlugin
+0.09|setup|compilation ConstPlugin
+0.09|setup|compilation UseStrictPlugin
+0.09|setup|compilation RequireIncludePlugin
+0.09|setup|compilation RequireEnsurePlugin
+0.09|setup|compilation RequireContextPlugin
+0.09|setup|compilation ImportPlugin
+0.09|setup|compilation ImportMetaContextPlugin
+0.09|setup|compilation SystemPlugin
+0.09|setup|compilation ImportMetaPlugin
+0.09|setup|compilation URLPlugin
+0.09|setup|compilation DefaultStatsFactoryPlugin
+0.09|setup|compilation DefaultStatsPresetPlugin
+0.09|setup|compilation DefaultStatsPrinterPlugin
+0.09|setup|compilation JavascriptMetaInfoPlugin
+0.09|setup|compilation EnsureChunkConditionsPlugin
+0.09|setup|compilation RemoveEmptyChunksPlugin
+0.09|setup|compilation MergeDuplicateChunksPlugin
+0.09|setup|compilation SideEffectsFlagPlugin
+0.09|setup|compilation FlagDependencyExportsPlugin
+0.09|setup|compilation NamedModuleIdsPlugin
+0.09|setup|compilation NamedChunkIdsPlugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation TemplatedPathPlugin
+0.09|setup|compilation RecordIdsPlugin
+0.09|setup|compilation WarnCaseSensitiveModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ProvidePlugin
+0.09|setup|compilation HotModuleReplacementPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation
+0.1|building|
+0.1|building|0/1 entries 0/0 dependencies 0/0 modules
+0.11255707762557078|building|1/4 entries 5/8 dependencies 1/5 modules
+0.13728813559322037|building|2/4 entries 6/29 dependencies 12/6 modules
+0.5125000000000001|building|3/4 entries 161/162 dependencies 240/138 modules
+0.6123287671232875|building|import loader ./node_modules/@vue/vue-loader-v15/lib/index.js
+0.6123287671232875|building|3/4 entries 204/204 dependencies 514/164 modules
+0.634931506849315|building|import loader ./node_modules/babel-loader/lib/index.js
+0.634931506849315|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js
+0.634931506849315|building|3/4 entries 213/214 dependencies 1068/172 modules
+0.6424657534246573|building|import loader ./node_modules/css-loader/dist/cjs.js
+0.6424657534246573|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js
+0.6424657534246573|building|import loader ./node_modules/postcss-loader/dist/cjs.js
+0.6424657534246573|building|3/4 entries 216/216 dependencies 1084/174 modules
+0.65|building|4/4 entries 219/219 dependencies 1163/177 modules
+0.65|building|
+0.69|building|finish
+0.69|building|finish
+0.7|sealing|finish module graph
+0.7|sealing|finish module graph ResolverCachePlugin
+0.7|sealing|finish module graph InferAsyncModulesPlugin
+0.7|sealing|finish module graph FlagDependencyExportsPlugin
+0.7|sealing|finish module graph
+0.7064102564102563|sealing|plugins
+0.7064102564102563|sealing|plugins WarnCaseSensitiveModulesPlugin
+0.7064102564102563|sealing|plugins
+0.7128205128205127|sealing|dependencies optimization
+0.7128205128205127|sealing|dependencies optimization SideEffectsFlagPlugin
+0.7128205128205127|sealing|dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7256410256410256|sealing|chunk graph
+0.7256410256410256|sealing|chunk graph
+0.732051282051282|sealing|after chunk graph
+0.732051282051282|sealing|after chunk graph
+0.7384615384615384|sealing|optimizing
+0.7384615384615384|sealing|optimizing
+0.7448717948717948|sealing|module optimization
+0.7448717948717948|sealing|module optimization
+0.7512820512820513|sealing|after module optimization
+0.7512820512820513|sealing|after module optimization
+0.7576923076923077|sealing|chunk optimization
+0.7576923076923077|sealing|chunk optimization EnsureChunkConditionsPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization MergeDuplicateChunksPlugin
+0.7576923076923077|sealing|chunk optimization SplitChunksPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7705128205128204|sealing|module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7961538461538461|sealing|module reviving
+0.7961538461538461|sealing|module reviving RecordIdsPlugin
+0.7961538461538461|sealing|module reviving
+0.8025641025641025|sealing|before module ids
+0.8025641025641025|sealing|before module ids
+0.808974358974359|sealing|module ids
+0.808974358974359|sealing|module ids NamedModuleIdsPlugin
+0.808974358974359|sealing|module ids
+0.8153846153846154|sealing|module id optimization
+0.8153846153846154|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8282051282051281|sealing|chunk reviving
+0.8282051282051281|sealing|chunk reviving RecordIdsPlugin
+0.8282051282051281|sealing|chunk reviving
+0.8346153846153845|sealing|before chunk ids
+0.8346153846153845|sealing|before chunk ids
+0.8410256410256409|sealing|chunk ids
+0.8410256410256409|sealing|chunk ids NamedChunkIdsPlugin
+0.8410256410256409|sealing|chunk ids
+0.8474358974358974|sealing|chunk id optimization
+0.8474358974358974|sealing|chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8602564102564102|sealing|record modules
+0.8602564102564102|sealing|record modules RecordIdsPlugin
+0.8602564102564102|sealing|record modules
+0.8666666666666666|sealing|record chunks
+0.8666666666666666|sealing|record chunks RecordIdsPlugin
+0.8666666666666666|sealing|record chunks
+0.8730769230769231|sealing|module hashing
+0.8730769230769231|sealing|module hashing
+0.8794871794871795|sealing|code generation
+0.8794871794871795|sealing|code generation
+0.8858974358974359|sealing|runtime requirements
+0.8858974358974359|sealing|runtime requirements
+0.8923076923076922|sealing|hashing
+0.8923076923076922|sealing|hashing
+0.8987179487179486|sealing|after hashing
+0.8987179487179486|sealing|after hashing
+0.905128205128205|sealing|record hash
+0.905128205128205|sealing|record hash
+0.9115384615384615|sealing|module assets processing
+0.9115384615384615|sealing|module assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9243589743589743|sealing|asset processing
+0.9243589743589743|sealing|asset processing copy-webpack-plugin
+0.9243589743589743|sealing|asset processing HotModuleReplacementPlugin
+0.9243589743589743|sealing|asset processing PersistentChildCompilerSingletonPlugin
+0.9243589743589743|sealing|asset processing HtmlWebpackPlugin
+0.9243589743589743|sealing|asset processing
+0.9307692307692308|sealing|after asset optimization
+0.9307692307692308|sealing|after asset optimization
+0.9371794871794872|sealing|recording
+0.9371794871794872|sealing|recording HotModuleReplacementPlugin
+0.9371794871794872|sealing|recording
+0.9435897435897436|sealing|after seal
+0.9435897435897436|sealing|after seal
+0.95|emitting|emit
+0.95|emitting|emit
+0.98|emitting|after emit
+0.98|emitting|after emit
+0.99|done|plugins
+0.99|done|plugins CaseSensitivePathsPlugin
+0.99|done|plugins FriendlyErrorsWebpackPlugin
+0.99|done|plugins vue-cli-service serve
+0.99|done|plugins webpack-dev-server
+0.99|done|plugins webpack-dev-middleware
+0.99|done|plugins
+0.99||
+0.99|cache|store build dependencies
+0.99|cache|store build dependencies
+0.99|cache|begin idle
+0.99|cache|begin idle
+1||
+0||
+0.01|cache|end idle
+0.01|cache|end idle
+0.03|setup|watch run
+0.03|setup|watch run webpack-dev-middleware
+0.03|setup|watch run
+0.04|setup|normal module factory
+0.04|setup|normal module factory CaseSensitivePathsPlugin
+0.04|setup|normal module factory
+0.05|setup|context module factory
+0.05|setup|context module factory
+0.06|setup|before compile
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile
+0.07|setup|compile
+0.07|setup|compile ExternalsPlugin
+0.07|setup|compile
+0.08|setup|compilation
+0.08|setup|compilation HtmlWebpackPlugin
+0.08|setup|compilation CopyPlugin
+0.08|setup|compilation ArrayPushCallbackChunkFormatPlugin
+0.08|setup|compilation JsonpChunkLoadingPlugin
+0.08|setup|compilation StartupChunkDependenciesPlugin
+0.08|setup|compilation ImportScriptsChunkLoadingPlugin
+0.08|setup|compilation WorkerPlugin
+0.08|setup|compilation SplitChunksPlugin
+0.08|setup|compilation ResolverCachePlugin
+0.08|setup|compilation
+0.09|setup|compilation
+0.09|setup|compilation vue-loader-plugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ExternalsPlugin
+0.09|setup|compilation ChunkPrefetchPreloadPlugin
+0.09|setup|compilation ModuleInfoHeaderPlugin
+0.09|setup|compilation EvalSourceMapDevToolPlugin
+0.09|setup|compilation JavascriptModulesPlugin
+0.09|setup|compilation JsonModulesPlugin
+0.09|setup|compilation AssetModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation RuntimePlugin
+0.09|setup|compilation InferAsyncModulesPlugin
+0.09|setup|compilation DataUriPlugin
+0.09|setup|compilation FileUriPlugin
+0.09|setup|compilation CompatibilityPlugin
+0.09|setup|compilation HarmonyModulesPlugin
+0.09|setup|compilation AMDPlugin
+0.09|setup|compilation RequireJsStuffPlugin
+0.09|setup|compilation CommonJsPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation NodeStuffPlugin
+0.09|setup|compilation APIPlugin
+0.09|setup|compilation ExportsInfoApiPlugin
+0.09|setup|compilation WebpackIsIncludedPlugin
+0.09|setup|compilation ConstPlugin
+0.09|setup|compilation UseStrictPlugin
+0.09|setup|compilation RequireIncludePlugin
+0.09|setup|compilation RequireEnsurePlugin
+0.09|setup|compilation RequireContextPlugin
+0.09|setup|compilation ImportPlugin
+0.09|setup|compilation ImportMetaContextPlugin
+0.09|setup|compilation SystemPlugin
+0.09|setup|compilation ImportMetaPlugin
+0.09|setup|compilation URLPlugin
+0.09|setup|compilation DefaultStatsFactoryPlugin
+0.09|setup|compilation DefaultStatsPresetPlugin
+0.09|setup|compilation DefaultStatsPrinterPlugin
+0.09|setup|compilation JavascriptMetaInfoPlugin
+0.09|setup|compilation EnsureChunkConditionsPlugin
+0.09|setup|compilation RemoveEmptyChunksPlugin
+0.09|setup|compilation MergeDuplicateChunksPlugin
+0.09|setup|compilation SideEffectsFlagPlugin
+0.09|setup|compilation FlagDependencyExportsPlugin
+0.09|setup|compilation NamedModuleIdsPlugin
+0.09|setup|compilation NamedChunkIdsPlugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation TemplatedPathPlugin
+0.09|setup|compilation RecordIdsPlugin
+0.09|setup|compilation WarnCaseSensitiveModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ProvidePlugin
+0.09|setup|compilation HotModuleReplacementPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation
+0.1|building|
+0.1|building|0/1 entries 0/0 dependencies 0/0 modules
+0.13728813559322034|building|1/4 entries 7/30 dependencies 12/6 modules
+0.3750000000000001|building|2/4 entries 108/162 dependencies 180/85 modules
+0.5821917808219178|building|3/4 entries 192/194 dependencies 338/154 modules
+0.6098173515981735|building|import loader ./node_modules/@vue/vue-loader-v15/lib/index.js
+0.6098173515981735|building|3/4 entries 203/203 dependencies 518/163 modules
+0.6324200913242007|building|import loader ./node_modules/babel-loader/lib/index.js
+0.6324200913242007|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js
+0.6324200913242007|building|3/4 entries 212/213 dependencies 1067/171 modules
+0.6399543378995435|building|import loader ./node_modules/css-loader/dist/cjs.js
+0.6399543378995435|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js
+0.6399543378995435|building|import loader ./node_modules/postcss-loader/dist/cjs.js
+0.6399543378995435|building|3/4 entries 215/215 dependencies 1083/173 modules
+0.6500000000000005|building|4/4 entries 218/218 dependencies 1162/176 modules
+0.65|building|
+0.69|building|finish
+0.69|building|finish
+0.7|sealing|finish module graph
+0.7|sealing|finish module graph ResolverCachePlugin
+0.7|sealing|finish module graph InferAsyncModulesPlugin
+0.7|sealing|finish module graph FlagDependencyExportsPlugin
+0.7|sealing|finish module graph
+0.7064102564102563|sealing|plugins
+0.7064102564102563|sealing|plugins WarnCaseSensitiveModulesPlugin
+0.7064102564102563|sealing|plugins
+0.7128205128205127|sealing|dependencies optimization
+0.7128205128205127|sealing|dependencies optimization SideEffectsFlagPlugin
+0.7128205128205127|sealing|dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7256410256410256|sealing|chunk graph
+0.7256410256410256|sealing|chunk graph
+0.732051282051282|sealing|after chunk graph
+0.732051282051282|sealing|after chunk graph
+0.7384615384615384|sealing|optimizing
+0.7384615384615384|sealing|optimizing
+0.7448717948717948|sealing|module optimization
+0.7448717948717948|sealing|module optimization
+0.7512820512820513|sealing|after module optimization
+0.7512820512820513|sealing|after module optimization
+0.7576923076923077|sealing|chunk optimization
+0.7576923076923077|sealing|chunk optimization EnsureChunkConditionsPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization MergeDuplicateChunksPlugin
+0.7576923076923077|sealing|chunk optimization SplitChunksPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7705128205128204|sealing|module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7961538461538461|sealing|module reviving
+0.7961538461538461|sealing|module reviving RecordIdsPlugin
+0.7961538461538461|sealing|module reviving
+0.8025641025641025|sealing|before module ids
+0.8025641025641025|sealing|before module ids
+0.808974358974359|sealing|module ids
+0.808974358974359|sealing|module ids NamedModuleIdsPlugin
+0.808974358974359|sealing|module ids
+0.8153846153846154|sealing|module id optimization
+0.8153846153846154|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8282051282051281|sealing|chunk reviving
+0.8282051282051281|sealing|chunk reviving RecordIdsPlugin
+0.8282051282051281|sealing|chunk reviving
+0.8346153846153845|sealing|before chunk ids
+0.8346153846153845|sealing|before chunk ids
+0.8410256410256409|sealing|chunk ids
+0.8410256410256409|sealing|chunk ids NamedChunkIdsPlugin
+0.8410256410256409|sealing|chunk ids
+0.8474358974358974|sealing|chunk id optimization
+0.8474358974358974|sealing|chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8602564102564102|sealing|record modules
+0.8602564102564102|sealing|record modules RecordIdsPlugin
+0.8602564102564102|sealing|record modules
+0.8666666666666666|sealing|record chunks
+0.8666666666666666|sealing|record chunks RecordIdsPlugin
+0.8666666666666666|sealing|record chunks
+0.8730769230769231|sealing|module hashing
+0.8730769230769231|sealing|module hashing
+0.8794871794871795|sealing|code generation
+0.8794871794871795|sealing|code generation
+0.8858974358974359|sealing|runtime requirements
+0.8858974358974359|sealing|runtime requirements
+0.8923076923076922|sealing|hashing
+0.8923076923076922|sealing|hashing
+0.8987179487179486|sealing|after hashing
+0.8987179487179486|sealing|after hashing
+0.905128205128205|sealing|record hash
+0.905128205128205|sealing|record hash
+0.9115384615384615|sealing|module assets processing
+0.9115384615384615|sealing|module assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9243589743589743|sealing|asset processing
+0.9243589743589743|sealing|asset processing copy-webpack-plugin
+0.9243589743589743|sealing|asset processing HotModuleReplacementPlugin
+0.9243589743589743|sealing|asset processing PersistentChildCompilerSingletonPlugin
+0.9243589743589743|sealing|asset processing HtmlWebpackPlugin
+0.9243589743589743|sealing|asset processing
+0.9307692307692308|sealing|after asset optimization
+0.9307692307692308|sealing|after asset optimization
+0.9371794871794872|sealing|recording
+0.9371794871794872|sealing|recording HotModuleReplacementPlugin
+0.9371794871794872|sealing|recording
+0.9435897435897436|sealing|after seal
+0.9435897435897436|sealing|after seal
+0.95|emitting|emit
+0.95|emitting|emit
+0.98|emitting|after emit
+0.98|emitting|after emit
+0.99|done|plugins
+0.99|done|plugins CaseSensitivePathsPlugin
+0.99|done|plugins FriendlyErrorsWebpackPlugin
+0.99|done|plugins vue-cli-service serve
+0.99|done|plugins webpack-dev-server
+0.99|done|plugins webpack-dev-middleware
+0.99|done|plugins
+0.99||
+0.99|cache|store build dependencies
+0.99|cache|store build dependencies
+0.99|cache|begin idle
+0.99|cache|begin idle
+1||
+0||
+0.01|cache|end idle
+0.01|cache|end idle
+0.03|setup|watch run
+0.03|setup|watch run webpack-dev-middleware
+0.03|setup|watch run
+0.04|setup|normal module factory
+0.04|setup|normal module factory CaseSensitivePathsPlugin
+0.04|setup|normal module factory
+0.05|setup|context module factory
+0.05|setup|context module factory
+0.06|setup|before compile
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile
+0.07|setup|compile
+0.07|setup|compile ExternalsPlugin
+0.07|setup|compile
+0.08|setup|compilation
+0.08|setup|compilation HtmlWebpackPlugin
+0.08|setup|compilation CopyPlugin
+0.08|setup|compilation ArrayPushCallbackChunkFormatPlugin
+0.08|setup|compilation JsonpChunkLoadingPlugin
+0.08|setup|compilation StartupChunkDependenciesPlugin
+0.08|setup|compilation ImportScriptsChunkLoadingPlugin
+0.08|setup|compilation WorkerPlugin
+0.08|setup|compilation SplitChunksPlugin
+0.08|setup|compilation ResolverCachePlugin
+0.08|setup|compilation
+0.09|setup|compilation
+0.09|setup|compilation vue-loader-plugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ExternalsPlugin
+0.09|setup|compilation ChunkPrefetchPreloadPlugin
+0.09|setup|compilation ModuleInfoHeaderPlugin
+0.09|setup|compilation EvalSourceMapDevToolPlugin
+0.09|setup|compilation JavascriptModulesPlugin
+0.09|setup|compilation JsonModulesPlugin
+0.09|setup|compilation AssetModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation RuntimePlugin
+0.09|setup|compilation InferAsyncModulesPlugin
+0.09|setup|compilation DataUriPlugin
+0.09|setup|compilation FileUriPlugin
+0.09|setup|compilation CompatibilityPlugin
+0.09|setup|compilation HarmonyModulesPlugin
+0.09|setup|compilation AMDPlugin
+0.09|setup|compilation RequireJsStuffPlugin
+0.09|setup|compilation CommonJsPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation NodeStuffPlugin
+0.09|setup|compilation APIPlugin
+0.09|setup|compilation ExportsInfoApiPlugin
+0.09|setup|compilation WebpackIsIncludedPlugin
+0.09|setup|compilation ConstPlugin
+0.09|setup|compilation UseStrictPlugin
+0.09|setup|compilation RequireIncludePlugin
+0.09|setup|compilation RequireEnsurePlugin
+0.09|setup|compilation RequireContextPlugin
+0.09|setup|compilation ImportPlugin
+0.09|setup|compilation ImportMetaContextPlugin
+0.09|setup|compilation SystemPlugin
+0.09|setup|compilation ImportMetaPlugin
+0.09|setup|compilation URLPlugin
+0.09|setup|compilation DefaultStatsFactoryPlugin
+0.09|setup|compilation DefaultStatsPresetPlugin
+0.09|setup|compilation DefaultStatsPrinterPlugin
+0.09|setup|compilation JavascriptMetaInfoPlugin
+0.09|setup|compilation EnsureChunkConditionsPlugin
+0.09|setup|compilation RemoveEmptyChunksPlugin
+0.09|setup|compilation MergeDuplicateChunksPlugin
+0.09|setup|compilation SideEffectsFlagPlugin
+0.09|setup|compilation FlagDependencyExportsPlugin
+0.09|setup|compilation NamedModuleIdsPlugin
+0.09|setup|compilation NamedChunkIdsPlugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation TemplatedPathPlugin
+0.09|setup|compilation RecordIdsPlugin
+0.09|setup|compilation WarnCaseSensitiveModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ProvidePlugin
+0.09|setup|compilation HotModuleReplacementPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation
+0.1|building|
+0.1|building|0/1 entries 0/0 dependencies 0/0 modules
+0.11009174311926606|building|1/4 entries 4/8 dependencies 1/4 modules
+0.3749999999999999|building|2/4 entries 34/35 dependencies 134/31 modules
+0.375|building|import loader ./node_modules/@vue/vue-loader-v15/lib/index.js
+0.375|building|2/4 entries 109/109 dependencies 214/86 modules
+0.5125000000000001|building|3/4 entries 109/109 dependencies 267/86 modules
+0.6323394495412845|building|import loader ./node_modules/babel-loader/lib/index.js
+0.6323394495412845|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js
+0.6323394495412845|building|3/4 entries 211/211 dependencies 577/171 modules
+0.6424311926605503|building|import loader ./node_modules/css-loader/dist/cjs.js
+0.6424311926605503|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js
+0.6424311926605503|building|import loader ./node_modules/postcss-loader/dist/cjs.js
+0.6424311926605503|building|3/4 entries 215/215 dependencies 1023/173 modules
+0.6499999999999996|building|4/4 entries 218/218 dependencies 1162/176 modules
+0.65|building|
+0.69|building|finish
+0.69|building|finish
+0.7|sealing|finish module graph
+0.7|sealing|finish module graph ResolverCachePlugin
+0.7|sealing|finish module graph InferAsyncModulesPlugin
+0.7|sealing|finish module graph FlagDependencyExportsPlugin
+0.7|sealing|finish module graph
+0.7064102564102563|sealing|plugins
+0.7064102564102563|sealing|plugins WarnCaseSensitiveModulesPlugin
+0.7064102564102563|sealing|plugins
+0.7128205128205127|sealing|dependencies optimization
+0.7128205128205127|sealing|dependencies optimization SideEffectsFlagPlugin
+0.7128205128205127|sealing|dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7256410256410256|sealing|chunk graph
+0.7256410256410256|sealing|chunk graph
+0.732051282051282|sealing|after chunk graph
+0.732051282051282|sealing|after chunk graph
+0.7384615384615384|sealing|optimizing
+0.7384615384615384|sealing|optimizing
+0.7448717948717948|sealing|module optimization
+0.7448717948717948|sealing|module optimization
+0.7512820512820513|sealing|after module optimization
+0.7512820512820513|sealing|after module optimization
+0.7576923076923077|sealing|chunk optimization
+0.7576923076923077|sealing|chunk optimization EnsureChunkConditionsPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization MergeDuplicateChunksPlugin
+0.7576923076923077|sealing|chunk optimization SplitChunksPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7705128205128204|sealing|module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7961538461538461|sealing|module reviving
+0.7961538461538461|sealing|module reviving RecordIdsPlugin
+0.7961538461538461|sealing|module reviving
+0.8025641025641025|sealing|before module ids
+0.8025641025641025|sealing|before module ids
+0.808974358974359|sealing|module ids
+0.808974358974359|sealing|module ids NamedModuleIdsPlugin
+0.808974358974359|sealing|module ids
+0.8153846153846154|sealing|module id optimization
+0.8153846153846154|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8282051282051281|sealing|chunk reviving
+0.8282051282051281|sealing|chunk reviving RecordIdsPlugin
+0.8282051282051281|sealing|chunk reviving
+0.8346153846153845|sealing|before chunk ids
+0.8346153846153845|sealing|before chunk ids
+0.8410256410256409|sealing|chunk ids
+0.8410256410256409|sealing|chunk ids NamedChunkIdsPlugin
+0.8410256410256409|sealing|chunk ids
+0.8474358974358974|sealing|chunk id optimization
+0.8474358974358974|sealing|chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8602564102564102|sealing|record modules
+0.8602564102564102|sealing|record modules RecordIdsPlugin
+0.8602564102564102|sealing|record modules
+0.8666666666666666|sealing|record chunks
+0.8666666666666666|sealing|record chunks RecordIdsPlugin
+0.8666666666666666|sealing|record chunks
+0.8730769230769231|sealing|module hashing
+0.8730769230769231|sealing|module hashing
+0.8794871794871795|sealing|code generation
+0.8794871794871795|sealing|code generation
+0.8858974358974359|sealing|runtime requirements
+0.8858974358974359|sealing|runtime requirements
+0.8923076923076922|sealing|hashing
+0.8923076923076922|sealing|hashing
+0.8987179487179486|sealing|after hashing
+0.8987179487179486|sealing|after hashing
+0.905128205128205|sealing|record hash
+0.905128205128205|sealing|record hash
+0.9115384615384615|sealing|module assets processing
+0.9115384615384615|sealing|module assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9243589743589743|sealing|asset processing
+0.9243589743589743|sealing|asset processing copy-webpack-plugin
+0.9243589743589743|sealing|asset processing HotModuleReplacementPlugin
+0.9243589743589743|sealing|asset processing PersistentChildCompilerSingletonPlugin
+0.9243589743589743|sealing|asset processing HtmlWebpackPlugin
+0.9243589743589743|sealing|asset processing
+0.9307692307692308|sealing|after asset optimization
+0.9307692307692308|sealing|after asset optimization
+0.9371794871794872|sealing|recording
+0.9371794871794872|sealing|recording HotModuleReplacementPlugin
+0.9371794871794872|sealing|recording
+0.9435897435897436|sealing|after seal
+0.9435897435897436|sealing|after seal
+0.95|emitting|emit
+0.95|emitting|emit
+0.98|emitting|after emit
+0.98|emitting|after emit
+0.99|done|plugins
+0.99|done|plugins CaseSensitivePathsPlugin
+0.99|done|plugins FriendlyErrorsWebpackPlugin
+0.99|done|plugins vue-cli-service serve
+0.99|done|plugins webpack-dev-server
+0.99|done|plugins webpack-dev-middleware
+0.99|done|plugins
+0.99||
+0.99|cache|store build dependencies
+0.99|cache|store build dependencies
+0.99|cache|begin idle
+0.99|cache|begin idle
+1||
+0.03|setup|watch run
+0.03|setup|watch run webpack-dev-middleware
+0.03|setup|watch run
+0.04|setup|normal module factory
+0.04|setup|normal module factory CaseSensitivePathsPlugin
+0.04|setup|normal module factory
+0.05|setup|context module factory
+0.05|setup|context module factory
+0.06|setup|before compile
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile
+0.07|setup|compile
+0.07|setup|compile ExternalsPlugin
+0.07|setup|compile
+0.08|setup|compilation
+0.08|setup|compilation HtmlWebpackPlugin
+0.08|setup|compilation CopyPlugin
+0.08|setup|compilation ArrayPushCallbackChunkFormatPlugin
+0.08|setup|compilation JsonpChunkLoadingPlugin
+0.08|setup|compilation StartupChunkDependenciesPlugin
+0.08|setup|compilation ImportScriptsChunkLoadingPlugin
+0.08|setup|compilation WorkerPlugin
+0.08|setup|compilation SplitChunksPlugin
+0.08|setup|compilation ResolverCachePlugin
+0.08|setup|compilation
+0.09|setup|compilation
+0.09|setup|compilation vue-loader-plugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ExternalsPlugin
+0.09|setup|compilation ChunkPrefetchPreloadPlugin
+0.09|setup|compilation ModuleInfoHeaderPlugin
+0.09|setup|compilation EvalSourceMapDevToolPlugin
+0.09|setup|compilation JavascriptModulesPlugin
+0.09|setup|compilation JsonModulesPlugin
+0.09|setup|compilation AssetModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation RuntimePlugin
+0.09|setup|compilation InferAsyncModulesPlugin
+0.09|setup|compilation DataUriPlugin
+0.09|setup|compilation FileUriPlugin
+0.09|setup|compilation CompatibilityPlugin
+0.09|setup|compilation HarmonyModulesPlugin
+0.09|setup|compilation AMDPlugin
+0.09|setup|compilation RequireJsStuffPlugin
+0.09|setup|compilation CommonJsPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation NodeStuffPlugin
+0.09|setup|compilation APIPlugin
+0.09|setup|compilation ExportsInfoApiPlugin
+0.09|setup|compilation WebpackIsIncludedPlugin
+0.09|setup|compilation ConstPlugin
+0.09|setup|compilation UseStrictPlugin
+0.09|setup|compilation RequireIncludePlugin
+0.09|setup|compilation RequireEnsurePlugin
+0.09|setup|compilation RequireContextPlugin
+0.09|setup|compilation ImportPlugin
+0.09|setup|compilation ImportMetaContextPlugin
+0.09|setup|compilation SystemPlugin
+0.09|setup|compilation ImportMetaPlugin
+0.09|setup|compilation URLPlugin
+0.09|setup|compilation DefaultStatsFactoryPlugin
+0.09|setup|compilation DefaultStatsPresetPlugin
+0.09|setup|compilation DefaultStatsPrinterPlugin
+0.09|setup|compilation JavascriptMetaInfoPlugin
+0.09|setup|compilation EnsureChunkConditionsPlugin
+0.09|setup|compilation RemoveEmptyChunksPlugin
+0.09|setup|compilation MergeDuplicateChunksPlugin
+0.09|setup|compilation SideEffectsFlagPlugin
+0.09|setup|compilation FlagDependencyExportsPlugin
+0.09|setup|compilation NamedModuleIdsPlugin
+0.09|setup|compilation NamedChunkIdsPlugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation TemplatedPathPlugin
+0.09|setup|compilation RecordIdsPlugin
+0.09|setup|compilation WarnCaseSensitiveModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ProvidePlugin
+0.09|setup|compilation HotModuleReplacementPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation
+0.1|building|
+0.1|building|0/1 entries 0/0 dependencies 0/0 modules
+0.1|building|0/4 entries 1/4 dependencies 0/0 modules
+0.1|building|import loader ./node_modules/babel-loader/lib/index.js
+0.1|building|0/4 entries 2/7 dependencies 0/2 modules
+0.23750000000000004|building|1/4 entries 11/12 dependencies 3/7 modules
+0.2375|building|import loader ./node_modules/@vue/vue-loader-v15/lib/index.js
+0.2375|building|1/4 entries 25/48 dependencies 6/17 modules
+0.23750000000000004|building|import loader ./node_modules/vue-style-loader/index.js
+0.23750000000000004|building|import loader ./node_modules/css-loader/dist/cjs.js
+0.23750000000000004|building|import loader ./node_modules/postcss-loader/dist/cjs.js
+0.23750000000000004|building|1/4 entries 48/57 dependencies 7/34 modules
+0.23750000000000004|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/pitcher.js
+0.23750000000000004|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js
+0.23750000000000004|building|1/4 entries 56/67 dependencies 7/39 modules
+0.23750000000000002|building|1/4 entries 62/129 dependencies 7/42 modules
+0.23750000000000002|building|1/4 entries 62/129 dependencies 8/42 modules
+0.23750000000000002|building|1/4 entries 166/181 dependencies 15/100 modules
+0.375|building|2/4 entries 240/288 dependencies 30/109 modules
+0.375|building|2/4 entries 500/538 dependencies 36/231 modules
+0.375|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js
+0.375|building|2/4 entries 516/538 dependencies 36/247 modules
+0.3750000000000001|building|2/4 entries 525/600 dependencies 36/255 modules
+0.375|building|2/4 entries 777/800 dependencies 132/347 modules
+0.375|building|2/4 entries 1100/1121 dependencies 224/386 modules
+0.375|building|2/4 entries 1363/1382 dependencies 300/457 modules
+0.5125000000000001|building|3/4 entries 1474/1545 dependencies 339/488 modules
+0.5125000000000001|building|3/4 entries 1629/1800 dependencies 370/573 modules
+0.5125000000000001|building|3/4 entries 1800/2024 dependencies 373/654 modules
+0.5125000000000001|building|3/4 entries 1993/2053 dependencies 374/800 modules
+0.5125000000000001|building|3/4 entries 2249/2300 dependencies 399/844 modules
+0.5125000000000001|building|3/4 entries 2500/2564 dependencies 427/915 modules
+0.5125000000000001|building|3/4 entries 2857/2900 dependencies 443/972 modules
+0.5125000000000001|building|3/4 entries 3100/3337 dependencies 454/983 modules
+0.5125000000000001|building|3/4 entries 3496/3700 dependencies 491/1029 modules
+0.5125000000000001|building|3/4 entries 3900/4087 dependencies 668/1064 modules
+0.5125000000000001|building|3/4 entries 4447/4455 dependencies 1038/1100 modules
+0.6500000000000001|building|4/4 entries 4671/4671 dependencies 1162/1162 modules
+0.65|building|
+0.69|building|finish
+0.69|building|finish
+0.7|sealing|finish module graph
+0.7|sealing|finish module graph ResolverCachePlugin
+0.7|sealing|finish module graph InferAsyncModulesPlugin
+0.7|sealing|finish module graph FlagDependencyExportsPlugin
+0.7|sealing|finish module graph
+0.7064102564102563|sealing|plugins
+0.7064102564102563|sealing|plugins WarnCaseSensitiveModulesPlugin
+0.7064102564102563|sealing|plugins
+0.7128205128205127|sealing|dependencies optimization
+0.7128205128205127|sealing|dependencies optimization SideEffectsFlagPlugin
+0.7128205128205127|sealing|dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7256410256410256|sealing|chunk graph
+0.7256410256410256|sealing|chunk graph
+0.732051282051282|sealing|after chunk graph
+0.732051282051282|sealing|after chunk graph
+0.7384615384615384|sealing|optimizing
+0.7384615384615384|sealing|optimizing
+0.7448717948717948|sealing|module optimization
+0.7448717948717948|sealing|module optimization
+0.7512820512820513|sealing|after module optimization
+0.7512820512820513|sealing|after module optimization
+0.7576923076923077|sealing|chunk optimization
+0.7576923076923077|sealing|chunk optimization EnsureChunkConditionsPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization MergeDuplicateChunksPlugin
+0.7576923076923077|sealing|chunk optimization SplitChunksPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7705128205128204|sealing|module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7961538461538461|sealing|module reviving
+0.7961538461538461|sealing|module reviving RecordIdsPlugin
+0.7961538461538461|sealing|module reviving
+0.8025641025641025|sealing|before module ids
+0.8025641025641025|sealing|before module ids
+0.808974358974359|sealing|module ids
+0.808974358974359|sealing|module ids NamedModuleIdsPlugin
+0.808974358974359|sealing|module ids
+0.8153846153846154|sealing|module id optimization
+0.8153846153846154|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8282051282051281|sealing|chunk reviving
+0.8282051282051281|sealing|chunk reviving RecordIdsPlugin
+0.8282051282051281|sealing|chunk reviving
+0.8346153846153845|sealing|before chunk ids
+0.8346153846153845|sealing|before chunk ids
+0.8410256410256409|sealing|chunk ids
+0.8410256410256409|sealing|chunk ids NamedChunkIdsPlugin
+0.8410256410256409|sealing|chunk ids
+0.8474358974358974|sealing|chunk id optimization
+0.8474358974358974|sealing|chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8602564102564102|sealing|record modules
+0.8602564102564102|sealing|record modules RecordIdsPlugin
+0.8602564102564102|sealing|record modules
+0.8666666666666666|sealing|record chunks
+0.8666666666666666|sealing|record chunks RecordIdsPlugin
+0.8666666666666666|sealing|record chunks
+0.8730769230769231|sealing|module hashing
+0.8730769230769231|sealing|module hashing
+0.8794871794871795|sealing|code generation
+0.8794871794871795|sealing|code generation
+0.8858974358974359|sealing|runtime requirements
+0.8858974358974359|sealing|runtime requirements
+0.8923076923076922|sealing|hashing
+0.8923076923076922|sealing|hashing
+0.8987179487179486|sealing|after hashing
+0.8987179487179486|sealing|after hashing
+0.905128205128205|sealing|record hash
+0.905128205128205|sealing|record hash
+0.9115384615384615|sealing|module assets processing
+0.9115384615384615|sealing|module assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9243589743589743|sealing|asset processing
+0.9243589743589743|sealing|asset processing copy-webpack-plugin
+0.9243589743589743|sealing|asset processing HotModuleReplacementPlugin
+0.9243589743589743|sealing|asset processing PersistentChildCompilerSingletonPlugin
+0.9243589743589743|sealing|asset processing HtmlWebpackPlugin
+0.9243589743589743|sealing|asset processing
+0.9307692307692308|sealing|after asset optimization
+0.9307692307692308|sealing|after asset optimization
+0.9371794871794872|sealing|recording
+0.9371794871794872|sealing|recording HotModuleReplacementPlugin
+0.9371794871794872|sealing|recording
+0.9435897435897436|sealing|after seal
+0.9435897435897436|sealing|after seal
+0.95|emitting|emit
+0.95|emitting|emit
+0.98|emitting|after emit
+0.98|emitting|after emit
+0.99|done|plugins
+0.99|done|plugins CaseSensitivePathsPlugin
+0.99|done|plugins FriendlyErrorsWebpackPlugin
+0.99|done|plugins vue-cli-service serve
+0.99|done|plugins webpack-dev-server
+0.99|done|plugins webpack-dev-middleware
+0.99|done|plugins
+0.99||
+0.99|cache|store build dependencies
+0.99|cache|store build dependencies
+0.99|cache|begin idle
+0.99|cache|begin idle
+1||
+0||
+0.01|cache|end idle
+0.01|cache|end idle
+0.03|setup|watch run
+0.03|setup|watch run webpack-dev-middleware
+0.03|setup|watch run
+0.04|setup|normal module factory
+0.04|setup|normal module factory CaseSensitivePathsPlugin
+0.04|setup|normal module factory
+0.05|setup|context module factory
+0.05|setup|context module factory
+0.06|setup|before compile
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile
+0.07|setup|compile
+0.07|setup|compile ExternalsPlugin
+0.07|setup|compile
+0.08|setup|compilation
+0.08|setup|compilation HtmlWebpackPlugin
+0.08|setup|compilation CopyPlugin
+0.08|setup|compilation ArrayPushCallbackChunkFormatPlugin
+0.08|setup|compilation JsonpChunkLoadingPlugin
+0.08|setup|compilation StartupChunkDependenciesPlugin
+0.08|setup|compilation ImportScriptsChunkLoadingPlugin
+0.08|setup|compilation WorkerPlugin
+0.08|setup|compilation SplitChunksPlugin
+0.08|setup|compilation ResolverCachePlugin
+0.08|setup|compilation
+0.09|setup|compilation
+0.09|setup|compilation vue-loader-plugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ExternalsPlugin
+0.09|setup|compilation ChunkPrefetchPreloadPlugin
+0.09|setup|compilation ModuleInfoHeaderPlugin
+0.09|setup|compilation EvalSourceMapDevToolPlugin
+0.09|setup|compilation JavascriptModulesPlugin
+0.09|setup|compilation JsonModulesPlugin
+0.09|setup|compilation AssetModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation RuntimePlugin
+0.09|setup|compilation InferAsyncModulesPlugin
+0.09|setup|compilation DataUriPlugin
+0.09|setup|compilation FileUriPlugin
+0.09|setup|compilation CompatibilityPlugin
+0.09|setup|compilation HarmonyModulesPlugin
+0.09|setup|compilation AMDPlugin
+0.09|setup|compilation RequireJsStuffPlugin
+0.09|setup|compilation CommonJsPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation NodeStuffPlugin
+0.09|setup|compilation APIPlugin
+0.09|setup|compilation ExportsInfoApiPlugin
+0.09|setup|compilation WebpackIsIncludedPlugin
+0.09|setup|compilation ConstPlugin
+0.09|setup|compilation UseStrictPlugin
+0.09|setup|compilation RequireIncludePlugin
+0.09|setup|compilation RequireEnsurePlugin
+0.09|setup|compilation RequireContextPlugin
+0.09|setup|compilation ImportPlugin
+0.09|setup|compilation ImportMetaContextPlugin
+0.09|setup|compilation SystemPlugin
+0.09|setup|compilation ImportMetaPlugin
+0.09|setup|compilation URLPlugin
+0.09|setup|compilation DefaultStatsFactoryPlugin
+0.09|setup|compilation DefaultStatsPresetPlugin
+0.09|setup|compilation DefaultStatsPrinterPlugin
+0.09|setup|compilation JavascriptMetaInfoPlugin
+0.09|setup|compilation EnsureChunkConditionsPlugin
+0.09|setup|compilation RemoveEmptyChunksPlugin
+0.09|setup|compilation MergeDuplicateChunksPlugin
+0.09|setup|compilation SideEffectsFlagPlugin
+0.09|setup|compilation FlagDependencyExportsPlugin
+0.09|setup|compilation NamedModuleIdsPlugin
+0.09|setup|compilation NamedChunkIdsPlugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation TemplatedPathPlugin
+0.09|setup|compilation RecordIdsPlugin
+0.09|setup|compilation WarnCaseSensitiveModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ProvidePlugin
+0.09|setup|compilation HotModuleReplacementPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation
+0.1|building|
+0.1|building|0/1 entries 0/0 dependencies 0/0 modules
+0.1|building|0/4 entries 1/4 dependencies 0/0 modules
+0.10141996557659211|building|1/4 entries 3/8 dependencies 3/3 modules
+0.23773666092943205|building|2/4 entries 113/113 dependencies 291/89 modules
+0.25477624784853703|building|3/4 entries 169/169 dependencies 327/145 modules
+0.6499999999999999|building|4/4 entries 212/212 dependencies 1162/170 modules
+0.65|building|
+0.69|building|finish
+0.69|building|finish
+0.7|sealing|finish module graph
+0.7|sealing|finish module graph ResolverCachePlugin
+0.7|sealing|finish module graph InferAsyncModulesPlugin
+0.7|sealing|finish module graph FlagDependencyExportsPlugin
+0.7|sealing|finish module graph
+0.7064102564102563|sealing|plugins
+0.7064102564102563|sealing|plugins WarnCaseSensitiveModulesPlugin
+0.7064102564102563|sealing|plugins
+0.7128205128205127|sealing|dependencies optimization
+0.7128205128205127|sealing|dependencies optimization SideEffectsFlagPlugin
+0.7128205128205127|sealing|dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7256410256410256|sealing|chunk graph
+0.7256410256410256|sealing|chunk graph
+0.732051282051282|sealing|after chunk graph
+0.732051282051282|sealing|after chunk graph
+0.7384615384615384|sealing|optimizing
+0.7384615384615384|sealing|optimizing
+0.7448717948717948|sealing|module optimization
+0.7448717948717948|sealing|module optimization
+0.7512820512820513|sealing|after module optimization
+0.7512820512820513|sealing|after module optimization
+0.7576923076923077|sealing|chunk optimization
+0.7576923076923077|sealing|chunk optimization EnsureChunkConditionsPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization MergeDuplicateChunksPlugin
+0.7576923076923077|sealing|chunk optimization SplitChunksPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7705128205128204|sealing|module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7961538461538461|sealing|module reviving
+0.7961538461538461|sealing|module reviving RecordIdsPlugin
+0.7961538461538461|sealing|module reviving
+0.8025641025641025|sealing|before module ids
+0.8025641025641025|sealing|before module ids
+0.808974358974359|sealing|module ids
+0.808974358974359|sealing|module ids NamedModuleIdsPlugin
+0.808974358974359|sealing|module ids
+0.8153846153846154|sealing|module id optimization
+0.8153846153846154|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8282051282051281|sealing|chunk reviving
+0.8282051282051281|sealing|chunk reviving RecordIdsPlugin
+0.8282051282051281|sealing|chunk reviving
+0.8346153846153845|sealing|before chunk ids
+0.8346153846153845|sealing|before chunk ids
+0.8410256410256409|sealing|chunk ids
+0.8410256410256409|sealing|chunk ids NamedChunkIdsPlugin
+0.8410256410256409|sealing|chunk ids
+0.8474358974358974|sealing|chunk id optimization
+0.8474358974358974|sealing|chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8602564102564102|sealing|record modules
+0.8602564102564102|sealing|record modules RecordIdsPlugin
+0.8602564102564102|sealing|record modules
+0.8666666666666666|sealing|record chunks
+0.8666666666666666|sealing|record chunks RecordIdsPlugin
+0.8666666666666666|sealing|record chunks
+0.8730769230769231|sealing|module hashing
+0.8730769230769231|sealing|module hashing
+0.8794871794871795|sealing|code generation
+0.8794871794871795|sealing|code generation
+0.8858974358974359|sealing|runtime requirements
+0.8858974358974359|sealing|runtime requirements
+0.8923076923076922|sealing|hashing
+0.8923076923076922|sealing|hashing
+0.8987179487179486|sealing|after hashing
+0.8987179487179486|sealing|after hashing
+0.905128205128205|sealing|record hash
+0.905128205128205|sealing|record hash
+0.9115384615384615|sealing|module assets processing
+0.9115384615384615|sealing|module assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9243589743589743|sealing|asset processing
+0.9243589743589743|sealing|asset processing copy-webpack-plugin
+0.9243589743589743|sealing|asset processing HotModuleReplacementPlugin
+0.9243589743589743|sealing|asset processing PersistentChildCompilerSingletonPlugin
+0.9243589743589743|sealing|asset processing HtmlWebpackPlugin
+0.9243589743589743|sealing|asset processing
+0.9307692307692308|sealing|after asset optimization
+0.9307692307692308|sealing|after asset optimization
+0.9371794871794872|sealing|recording
+0.9371794871794872|sealing|recording HotModuleReplacementPlugin
+0.9371794871794872|sealing|recording
+0.9435897435897436|sealing|after seal
+0.9435897435897436|sealing|after seal
+0.95|emitting|emit
+0.95|emitting|emit
+0.98|emitting|after emit
+0.98|emitting|after emit
+0.99|done|plugins
+0.99|done|plugins CaseSensitivePathsPlugin
+0.99|done|plugins FriendlyErrorsWebpackPlugin
+0.99|done|plugins vue-cli-service serve
+0.99|done|plugins webpack-dev-server
+0.99|done|plugins webpack-dev-middleware
+0.99|done|plugins
+0.99||
+0.99|cache|store build dependencies
+0.99|cache|store build dependencies
+0.99|cache|begin idle
+0.99|cache|begin idle
+1||
+0.03|setup|watch run
+0.03|setup|watch run webpack-dev-middleware
+0.03|setup|watch run
+0.04|setup|normal module factory
+0.04|setup|normal module factory CaseSensitivePathsPlugin
+0.04|setup|normal module factory
+0.05|setup|context module factory
+0.05|setup|context module factory
+0.06|setup|before compile
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile
+0.07|setup|compile
+0.07|setup|compile ExternalsPlugin
+0.07|setup|compile
+0.08|setup|compilation
+0.08|setup|compilation HtmlWebpackPlugin
+0.08|setup|compilation CopyPlugin
+0.08|setup|compilation ArrayPushCallbackChunkFormatPlugin
+0.08|setup|compilation JsonpChunkLoadingPlugin
+0.08|setup|compilation StartupChunkDependenciesPlugin
+0.08|setup|compilation ImportScriptsChunkLoadingPlugin
+0.08|setup|compilation WorkerPlugin
+0.08|setup|compilation SplitChunksPlugin
+0.08|setup|compilation ResolverCachePlugin
+0.08|setup|compilation
+0.09|setup|compilation
+0.09|setup|compilation vue-loader-plugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ExternalsPlugin
+0.09|setup|compilation ChunkPrefetchPreloadPlugin
+0.09|setup|compilation ModuleInfoHeaderPlugin
+0.09|setup|compilation EvalSourceMapDevToolPlugin
+0.09|setup|compilation JavascriptModulesPlugin
+0.09|setup|compilation JsonModulesPlugin
+0.09|setup|compilation AssetModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation RuntimePlugin
+0.09|setup|compilation InferAsyncModulesPlugin
+0.09|setup|compilation DataUriPlugin
+0.09|setup|compilation FileUriPlugin
+0.09|setup|compilation CompatibilityPlugin
+0.09|setup|compilation HarmonyModulesPlugin
+0.09|setup|compilation AMDPlugin
+0.09|setup|compilation RequireJsStuffPlugin
+0.09|setup|compilation CommonJsPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation NodeStuffPlugin
+0.09|setup|compilation APIPlugin
+0.09|setup|compilation ExportsInfoApiPlugin
+0.09|setup|compilation WebpackIsIncludedPlugin
+0.09|setup|compilation ConstPlugin
+0.09|setup|compilation UseStrictPlugin
+0.09|setup|compilation RequireIncludePlugin
+0.09|setup|compilation RequireEnsurePlugin
+0.09|setup|compilation RequireContextPlugin
+0.09|setup|compilation ImportPlugin
+0.09|setup|compilation ImportMetaContextPlugin
+0.09|setup|compilation SystemPlugin
+0.09|setup|compilation ImportMetaPlugin
+0.09|setup|compilation URLPlugin
+0.09|setup|compilation DefaultStatsFactoryPlugin
+0.09|setup|compilation DefaultStatsPresetPlugin
+0.09|setup|compilation DefaultStatsPrinterPlugin
+0.09|setup|compilation JavascriptMetaInfoPlugin
+0.09|setup|compilation EnsureChunkConditionsPlugin
+0.09|setup|compilation RemoveEmptyChunksPlugin
+0.09|setup|compilation MergeDuplicateChunksPlugin
+0.09|setup|compilation SideEffectsFlagPlugin
+0.09|setup|compilation FlagDependencyExportsPlugin
+0.09|setup|compilation NamedModuleIdsPlugin
+0.09|setup|compilation NamedChunkIdsPlugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation TemplatedPathPlugin
+0.09|setup|compilation RecordIdsPlugin
+0.09|setup|compilation WarnCaseSensitiveModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ProvidePlugin
+0.09|setup|compilation HotModuleReplacementPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation
+0.1|building|
+0.1|building|0/1 entries 0/0 dependencies 0/0 modules
+0.1|building|0/4 entries 1/4 dependencies 0/0 modules
+0.1|building|import loader ./node_modules/babel-loader/lib/index.js
+0.1|building|0/4 entries 2/4 dependencies 0/2 modules
+0.10021999999999998|building|import loader ./node_modules/@vue/vue-loader-v15/lib/index.js
+0.10021999999999998|building|0/4 entries 14/19 dependencies 2/10 modules
+0.2375|building|1/4 entries 16/33 dependencies 3/12 modules
+0.23750000000000002|building|import loader ./node_modules/vue-style-loader/index.js
+0.23750000000000002|building|import loader ./node_modules/css-loader/dist/cjs.js
+0.23750000000000002|building|import loader ./node_modules/postcss-loader/dist/cjs.js
+0.23750000000000002|building|1/4 entries 17/38 dependencies 3/13 modules
+0.23750000000000004|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/pitcher.js
+0.23750000000000004|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js
+0.23750000000000004|building|1/4 entries 34/48 dependencies 3/25 modules
+0.2375|building|1/4 entries 38/49 dependencies 3/26 modules
+0.23750000000000002|building|1/4 entries 289/400 dependencies 10/177 modules
+0.375|building|2/4 entries 424/506 dependencies 28/226 modules
+0.375|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js
+0.375|building|2/4 entries 496/511 dependencies 29/281 modules
+0.375|building|2/4 entries 637/700 dependencies 108/306 modules
+0.3749999999999999|building|2/4 entries 1154/1188 dependencies 194/400 modules
+0.3750000000000001|building|2/4 entries 1486/1500 dependencies 321/483 modules
+0.5125000000000001|building|3/4 entries 1634/1667 dependencies 365/559 modules
+0.5125000000000001|building|3/4 entries 2045/2100 dependencies 403/779 modules
+0.5125000000000001|building|3/4 entries 2400/2431 dependencies 447/896 modules
+0.5125000000000001|building|3/4 entries 2450/2600 dependencies 450/921 modules
+0.5125000000000001|building|3/4 entries 2888/2900 dependencies 476/986 modules
+0.5125000000000001|building|3/4 entries 3443/3500 dependencies 571/1041 modules
+0.5125000000000001|building|3/4 entries 3842/3900 dependencies 687/1067 modules
+0.5125000000000001|building|3/4 entries 4233/4300 dependencies 833/1100 modules
+0.6500000000000001|building|4/4 entries 4671/4671 dependencies 1162/1162 modules
+0.65|building|
+0.69|building|finish
+0.69|building|finish
+0.7|sealing|finish module graph
+0.7|sealing|finish module graph ResolverCachePlugin
+0.7|sealing|finish module graph InferAsyncModulesPlugin
+0.7|sealing|finish module graph FlagDependencyExportsPlugin
+0.7|sealing|finish module graph
+0.7064102564102563|sealing|plugins
+0.7064102564102563|sealing|plugins WarnCaseSensitiveModulesPlugin
+0.7064102564102563|sealing|plugins
+0.7128205128205127|sealing|dependencies optimization
+0.7128205128205127|sealing|dependencies optimization SideEffectsFlagPlugin
+0.7128205128205127|sealing|dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7256410256410256|sealing|chunk graph
+0.7256410256410256|sealing|chunk graph
+0.732051282051282|sealing|after chunk graph
+0.732051282051282|sealing|after chunk graph
+0.7384615384615384|sealing|optimizing
+0.7384615384615384|sealing|optimizing
+0.7448717948717948|sealing|module optimization
+0.7448717948717948|sealing|module optimization
+0.7512820512820513|sealing|after module optimization
+0.7512820512820513|sealing|after module optimization
+0.7576923076923077|sealing|chunk optimization
+0.7576923076923077|sealing|chunk optimization EnsureChunkConditionsPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization MergeDuplicateChunksPlugin
+0.7576923076923077|sealing|chunk optimization SplitChunksPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7705128205128204|sealing|module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7961538461538461|sealing|module reviving
+0.7961538461538461|sealing|module reviving RecordIdsPlugin
+0.7961538461538461|sealing|module reviving
+0.8025641025641025|sealing|before module ids
+0.8025641025641025|sealing|before module ids
+0.808974358974359|sealing|module ids
+0.808974358974359|sealing|module ids NamedModuleIdsPlugin
+0.808974358974359|sealing|module ids
+0.8153846153846154|sealing|module id optimization
+0.8153846153846154|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8282051282051281|sealing|chunk reviving
+0.8282051282051281|sealing|chunk reviving RecordIdsPlugin
+0.8282051282051281|sealing|chunk reviving
+0.8346153846153845|sealing|before chunk ids
+0.8346153846153845|sealing|before chunk ids
+0.8410256410256409|sealing|chunk ids
+0.8410256410256409|sealing|chunk ids NamedChunkIdsPlugin
+0.8410256410256409|sealing|chunk ids
+0.8474358974358974|sealing|chunk id optimization
+0.8474358974358974|sealing|chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8602564102564102|sealing|record modules
+0.8602564102564102|sealing|record modules RecordIdsPlugin
+0.8602564102564102|sealing|record modules
+0.8666666666666666|sealing|record chunks
+0.8666666666666666|sealing|record chunks RecordIdsPlugin
+0.8666666666666666|sealing|record chunks
+0.8730769230769231|sealing|module hashing
+0.8730769230769231|sealing|module hashing
+0.8794871794871795|sealing|code generation
+0.8794871794871795|sealing|code generation
+0.8858974358974359|sealing|runtime requirements
+0.8858974358974359|sealing|runtime requirements
+0.8923076923076922|sealing|hashing
+0.8923076923076922|sealing|hashing
+0.8987179487179486|sealing|after hashing
+0.8987179487179486|sealing|after hashing
+0.905128205128205|sealing|record hash
+0.905128205128205|sealing|record hash
+0.9115384615384615|sealing|module assets processing
+0.9115384615384615|sealing|module assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9243589743589743|sealing|asset processing
+0.9243589743589743|sealing|asset processing copy-webpack-plugin
+0.9243589743589743|sealing|asset processing HotModuleReplacementPlugin
+0.9243589743589743|sealing|asset processing PersistentChildCompilerSingletonPlugin
+0.9243589743589743|sealing|asset processing HtmlWebpackPlugin
+0.9243589743589743|sealing|asset processing
+0.9307692307692308|sealing|after asset optimization
+0.9307692307692308|sealing|after asset optimization
+0.9371794871794872|sealing|recording
+0.9371794871794872|sealing|recording HotModuleReplacementPlugin
+0.9371794871794872|sealing|recording
+0.9435897435897436|sealing|after seal
+0.9435897435897436|sealing|after seal
+0.95|emitting|emit
+0.95|emitting|emit
+0.98|emitting|after emit
+0.98|emitting|after emit
+0.99|done|plugins
+0.99|done|plugins CaseSensitivePathsPlugin
+0.99|done|plugins FriendlyErrorsWebpackPlugin
+0.99|done|plugins vue-cli-service serve
+0.99|done|plugins webpack-dev-server
+0.99|done|plugins webpack-dev-middleware
+0.99|done|plugins
+0.99||
+0.99|cache|store build dependencies
+0.99|cache|store build dependencies
+0.99|cache|begin idle
+0.99|cache|begin idle
+1||
+0.99|end|closing watch compilation
+0.99|end|closing watch compilation
+0.99|cache|shutdown
+0.99|cache|shutdown MemoryCachePlugin
+0.99|cache|shutdown
+1||
+0.03|setup|watch run
+0.03|setup|watch run webpack-dev-middleware
+0.03|setup|watch run
+0.04|setup|normal module factory
+0.04|setup|normal module factory CaseSensitivePathsPlugin
+0.04|setup|normal module factory
+0.05|setup|context module factory
+0.05|setup|context module factory
+0.06|setup|before compile
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile
+0.07|setup|compile
+0.07|setup|compile ExternalsPlugin
+0.07|setup|compile
+0.08|setup|compilation
+0.08|setup|compilation HtmlWebpackPlugin
+0.08|setup|compilation CopyPlugin
+0.08|setup|compilation ArrayPushCallbackChunkFormatPlugin
+0.08|setup|compilation JsonpChunkLoadingPlugin
+0.08|setup|compilation StartupChunkDependenciesPlugin
+0.08|setup|compilation ImportScriptsChunkLoadingPlugin
+0.08|setup|compilation WorkerPlugin
+0.08|setup|compilation SplitChunksPlugin
+0.08|setup|compilation ResolverCachePlugin
+0.08|setup|compilation
+0.09|setup|compilation
+0.09|setup|compilation vue-loader-plugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ExternalsPlugin
+0.09|setup|compilation ChunkPrefetchPreloadPlugin
+0.09|setup|compilation ModuleInfoHeaderPlugin
+0.09|setup|compilation EvalSourceMapDevToolPlugin
+0.09|setup|compilation JavascriptModulesPlugin
+0.09|setup|compilation JsonModulesPlugin
+0.09|setup|compilation AssetModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation RuntimePlugin
+0.09|setup|compilation InferAsyncModulesPlugin
+0.09|setup|compilation DataUriPlugin
+0.09|setup|compilation FileUriPlugin
+0.09|setup|compilation CompatibilityPlugin
+0.09|setup|compilation HarmonyModulesPlugin
+0.09|setup|compilation AMDPlugin
+0.09|setup|compilation RequireJsStuffPlugin
+0.09|setup|compilation CommonJsPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation NodeStuffPlugin
+0.09|setup|compilation APIPlugin
+0.09|setup|compilation ExportsInfoApiPlugin
+0.09|setup|compilation WebpackIsIncludedPlugin
+0.09|setup|compilation ConstPlugin
+0.09|setup|compilation UseStrictPlugin
+0.09|setup|compilation RequireIncludePlugin
+0.09|setup|compilation RequireEnsurePlugin
+0.09|setup|compilation RequireContextPlugin
+0.09|setup|compilation ImportPlugin
+0.09|setup|compilation ImportMetaContextPlugin
+0.09|setup|compilation SystemPlugin
+0.09|setup|compilation ImportMetaPlugin
+0.09|setup|compilation URLPlugin
+0.09|setup|compilation DefaultStatsFactoryPlugin
+0.09|setup|compilation DefaultStatsPresetPlugin
+0.09|setup|compilation DefaultStatsPrinterPlugin
+0.09|setup|compilation JavascriptMetaInfoPlugin
+0.09|setup|compilation EnsureChunkConditionsPlugin
+0.09|setup|compilation RemoveEmptyChunksPlugin
+0.09|setup|compilation MergeDuplicateChunksPlugin
+0.09|setup|compilation SideEffectsFlagPlugin
+0.09|setup|compilation FlagDependencyExportsPlugin
+0.09|setup|compilation NamedModuleIdsPlugin
+0.09|setup|compilation NamedChunkIdsPlugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation TemplatedPathPlugin
+0.09|setup|compilation RecordIdsPlugin
+0.09|setup|compilation WarnCaseSensitiveModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ProvidePlugin
+0.09|setup|compilation HotModuleReplacementPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation
+0.1|building|
+0.1|building|0/1 entries 0/0 dependencies 0/0 modules
+0.1|building|import loader ./node_modules/babel-loader/lib/index.js
+0.1|building|0/4 entries 2/7 dependencies 0/2 modules
+0.23750000000000004|building|1/4 entries 11/12 dependencies 3/7 modules
+0.23750000000000004|building|import loader ./node_modules/@vue/vue-loader-v15/lib/index.js
+0.23750000000000004|building|1/4 entries 36/52 dependencies 7/24 modules
+0.23750000000000002|building|import loader ./node_modules/vue-style-loader/index.js
+0.23750000000000002|building|import loader ./node_modules/css-loader/dist/cjs.js
+0.23750000000000002|building|import loader ./node_modules/postcss-loader/dist/cjs.js
+0.23750000000000002|building|1/4 entries 51/111 dependencies 7/34 modules
+0.23750000000000004|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/pitcher.js
+0.23750000000000004|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js
+0.23750000000000004|building|1/4 entries 60/128 dependencies 7/40 modules
+0.23750000000000004|building|1/4 entries 131/174 dependencies 12/75 modules
+0.375|building|2/4 entries 359/557 dependencies 31/171 modules
+0.375|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js
+0.375|building|2/4 entries 763/771 dependencies 85/337 modules
+0.375|building|2/4 entries 1345/1362 dependencies 300/449 modules
+0.5125|building|3/4 entries 1528/1545 dependencies 360/502 modules
+0.5125|building|3/4 entries 2092/2190 dependencies 412/800 modules
+0.5125000000000001|building|3/4 entries 2564/2600 dependencies 466/937 modules
+0.5125|building|3/4 entries 3046/3100 dependencies 482/998 modules
+0.5125000000000001|building|3/4 entries 3895/3905 dependencies 700/1073 modules
+0.5125000000000001|building|3/4 entries 4599/4600 dependencies 1044/1158 modules
+0.6500000000000001|building|4/4 entries 4671/4671 dependencies 1162/1162 modules
+0.65|building|
+0.69|building|finish
+0.69|building|finish
+0.7|sealing|finish module graph
+0.7|sealing|finish module graph ResolverCachePlugin
+0.7|sealing|finish module graph InferAsyncModulesPlugin
+0.7|sealing|finish module graph FlagDependencyExportsPlugin
+0.7|sealing|finish module graph
+0.7064102564102563|sealing|plugins
+0.7064102564102563|sealing|plugins WarnCaseSensitiveModulesPlugin
+0.7064102564102563|sealing|plugins
+0.7128205128205127|sealing|dependencies optimization
+0.7128205128205127|sealing|dependencies optimization SideEffectsFlagPlugin
+0.7128205128205127|sealing|dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7256410256410256|sealing|chunk graph
+0.7256410256410256|sealing|chunk graph
+0.732051282051282|sealing|after chunk graph
+0.732051282051282|sealing|after chunk graph
+0.7384615384615384|sealing|optimizing
+0.7384615384615384|sealing|optimizing
+0.7448717948717948|sealing|module optimization
+0.7448717948717948|sealing|module optimization
+0.7512820512820513|sealing|after module optimization
+0.7512820512820513|sealing|after module optimization
+0.7576923076923077|sealing|chunk optimization
+0.7576923076923077|sealing|chunk optimization EnsureChunkConditionsPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization MergeDuplicateChunksPlugin
+0.7576923076923077|sealing|chunk optimization SplitChunksPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7705128205128204|sealing|module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7961538461538461|sealing|module reviving
+0.7961538461538461|sealing|module reviving RecordIdsPlugin
+0.7961538461538461|sealing|module reviving
+0.8025641025641025|sealing|before module ids
+0.8025641025641025|sealing|before module ids
+0.808974358974359|sealing|module ids
+0.808974358974359|sealing|module ids NamedModuleIdsPlugin
+0.808974358974359|sealing|module ids
+0.8153846153846154|sealing|module id optimization
+0.8153846153846154|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8282051282051281|sealing|chunk reviving
+0.8282051282051281|sealing|chunk reviving RecordIdsPlugin
+0.8282051282051281|sealing|chunk reviving
+0.8346153846153845|sealing|before chunk ids
+0.8346153846153845|sealing|before chunk ids
+0.8410256410256409|sealing|chunk ids
+0.8410256410256409|sealing|chunk ids NamedChunkIdsPlugin
+0.8410256410256409|sealing|chunk ids
+0.8474358974358974|sealing|chunk id optimization
+0.8474358974358974|sealing|chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8602564102564102|sealing|record modules
+0.8602564102564102|sealing|record modules RecordIdsPlugin
+0.8602564102564102|sealing|record modules
+0.8666666666666666|sealing|record chunks
+0.8666666666666666|sealing|record chunks RecordIdsPlugin
+0.8666666666666666|sealing|record chunks
+0.8730769230769231|sealing|module hashing
+0.8730769230769231|sealing|module hashing
+0.8794871794871795|sealing|code generation
+0.8794871794871795|sealing|code generation
+0.8858974358974359|sealing|runtime requirements
+0.8858974358974359|sealing|runtime requirements
+0.8923076923076922|sealing|hashing
+0.8923076923076922|sealing|hashing
+0.8987179487179486|sealing|after hashing
+0.8987179487179486|sealing|after hashing
+0.905128205128205|sealing|record hash
+0.905128205128205|sealing|record hash
+0.9115384615384615|sealing|module assets processing
+0.9115384615384615|sealing|module assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9243589743589743|sealing|asset processing
+0.9243589743589743|sealing|asset processing copy-webpack-plugin
+0.9243589743589743|sealing|asset processing HotModuleReplacementPlugin
+0.9243589743589743|sealing|asset processing PersistentChildCompilerSingletonPlugin
+0.9243589743589743|sealing|asset processing HtmlWebpackPlugin
+0.9243589743589743|sealing|asset processing
+0.9307692307692308|sealing|after asset optimization
+0.9307692307692308|sealing|after asset optimization
+0.9371794871794872|sealing|recording
+0.9371794871794872|sealing|recording HotModuleReplacementPlugin
+0.9371794871794872|sealing|recording
+0.9435897435897436|sealing|after seal
+0.9435897435897436|sealing|after seal
+0.95|emitting|emit
+0.95|emitting|emit
+0.98|emitting|after emit
+0.98|emitting|after emit
+0.99|done|plugins
+0.99|done|plugins CaseSensitivePathsPlugin
+0.99|done|plugins FriendlyErrorsWebpackPlugin
+0.99|done|plugins vue-cli-service serve
+0.99|done|plugins webpack-dev-server
+0.99|done|plugins webpack-dev-middleware
+0.99|done|plugins
+0.99||
+0.99|cache|store build dependencies
+0.99|cache|store build dependencies
+0.99|cache|begin idle
+0.99|cache|begin idle
+1||
+0||
+0.01|cache|end idle
+0.01|cache|end idle
+0.03|setup|watch run
+0.03|setup|watch run webpack-dev-middleware
+0.03|setup|watch run
+0.04|setup|normal module factory
+0.04|setup|normal module factory CaseSensitivePathsPlugin
+0.04|setup|normal module factory
+0.05|setup|context module factory
+0.05|setup|context module factory
+0.06|setup|before compile
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile
+0.07|setup|compile
+0.07|setup|compile ExternalsPlugin
+0.07|setup|compile
+0.08|setup|compilation
+0.08|setup|compilation HtmlWebpackPlugin
+0.08|setup|compilation CopyPlugin
+0.08|setup|compilation ArrayPushCallbackChunkFormatPlugin
+0.08|setup|compilation JsonpChunkLoadingPlugin
+0.08|setup|compilation StartupChunkDependenciesPlugin
+0.08|setup|compilation ImportScriptsChunkLoadingPlugin
+0.08|setup|compilation WorkerPlugin
+0.08|setup|compilation SplitChunksPlugin
+0.08|setup|compilation ResolverCachePlugin
+0.08|setup|compilation
+0.09|setup|compilation
+0.09|setup|compilation vue-loader-plugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ExternalsPlugin
+0.09|setup|compilation ChunkPrefetchPreloadPlugin
+0.09|setup|compilation ModuleInfoHeaderPlugin
+0.09|setup|compilation EvalSourceMapDevToolPlugin
+0.09|setup|compilation JavascriptModulesPlugin
+0.09|setup|compilation JsonModulesPlugin
+0.09|setup|compilation AssetModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation RuntimePlugin
+0.09|setup|compilation InferAsyncModulesPlugin
+0.09|setup|compilation DataUriPlugin
+0.09|setup|compilation FileUriPlugin
+0.09|setup|compilation CompatibilityPlugin
+0.09|setup|compilation HarmonyModulesPlugin
+0.09|setup|compilation AMDPlugin
+0.09|setup|compilation RequireJsStuffPlugin
+0.09|setup|compilation CommonJsPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation NodeStuffPlugin
+0.09|setup|compilation APIPlugin
+0.09|setup|compilation ExportsInfoApiPlugin
+0.09|setup|compilation WebpackIsIncludedPlugin
+0.09|setup|compilation ConstPlugin
+0.09|setup|compilation UseStrictPlugin
+0.09|setup|compilation RequireIncludePlugin
+0.09|setup|compilation RequireEnsurePlugin
+0.09|setup|compilation RequireContextPlugin
+0.09|setup|compilation ImportPlugin
+0.09|setup|compilation ImportMetaContextPlugin
+0.09|setup|compilation SystemPlugin
+0.09|setup|compilation ImportMetaPlugin
+0.09|setup|compilation URLPlugin
+0.09|setup|compilation DefaultStatsFactoryPlugin
+0.09|setup|compilation DefaultStatsPresetPlugin
+0.09|setup|compilation DefaultStatsPrinterPlugin
+0.09|setup|compilation JavascriptMetaInfoPlugin
+0.09|setup|compilation EnsureChunkConditionsPlugin
+0.09|setup|compilation RemoveEmptyChunksPlugin
+0.09|setup|compilation MergeDuplicateChunksPlugin
+0.09|setup|compilation SideEffectsFlagPlugin
+0.09|setup|compilation FlagDependencyExportsPlugin
+0.09|setup|compilation NamedModuleIdsPlugin
+0.09|setup|compilation NamedChunkIdsPlugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation TemplatedPathPlugin
+0.09|setup|compilation RecordIdsPlugin
+0.09|setup|compilation WarnCaseSensitiveModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ProvidePlugin
+0.09|setup|compilation HotModuleReplacementPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation
+0.1|building|
+0.1|building|0/1 entries 0/0 dependencies 0/0 modules
+0.1005887390280454|building|1/4 entries 5/8 dependencies 1/5 modules
+0.13975903614457832|building|2/4 entries 29/33 dependencies 84/28 modules
+0.21359724612736658|building|3/4 entries 161/162 dependencies 240/138 modules
+0.5125000000000001|building|import loader ./node_modules/@vue/vue-loader-v15/lib/index.js
+0.5125000000000001|building|3/4 entries 193/193 dependencies 932/156 modules
+0.5125000000000001|building|import loader ./node_modules/babel-loader/lib/index.js
+0.5125000000000001|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js
+0.5125000000000001|building|3/4 entries 202/203 dependencies 1132/164 modules
+0.5125|building|import loader ./node_modules/css-loader/dist/cjs.js
+0.5125|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js
+0.5125|building|import loader ./node_modules/postcss-loader/dist/cjs.js
+0.5125|building|3/4 entries 205/205 dependencies 1145/166 modules
+0.65|building|4/4 entries 218/218 dependencies 1162/176 modules
+0.65|building|
+0.69|building|finish
+0.69|building|finish
+0.7|sealing|finish module graph
+0.7|sealing|finish module graph ResolverCachePlugin
+0.7|sealing|finish module graph InferAsyncModulesPlugin
+0.7|sealing|finish module graph FlagDependencyExportsPlugin
+0.7|sealing|finish module graph
+0.7064102564102563|sealing|plugins
+0.7064102564102563|sealing|plugins WarnCaseSensitiveModulesPlugin
+0.7064102564102563|sealing|plugins
+0.7128205128205127|sealing|dependencies optimization
+0.7128205128205127|sealing|dependencies optimization SideEffectsFlagPlugin
+0.7128205128205127|sealing|dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7256410256410256|sealing|chunk graph
+0.7256410256410256|sealing|chunk graph
+0.732051282051282|sealing|after chunk graph
+0.732051282051282|sealing|after chunk graph
+0.7384615384615384|sealing|optimizing
+0.7384615384615384|sealing|optimizing
+0.7448717948717948|sealing|module optimization
+0.7448717948717948|sealing|module optimization
+0.7512820512820513|sealing|after module optimization
+0.7512820512820513|sealing|after module optimization
+0.7576923076923077|sealing|chunk optimization
+0.7576923076923077|sealing|chunk optimization EnsureChunkConditionsPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization MergeDuplicateChunksPlugin
+0.7576923076923077|sealing|chunk optimization SplitChunksPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7705128205128204|sealing|module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7961538461538461|sealing|module reviving
+0.7961538461538461|sealing|module reviving RecordIdsPlugin
+0.7961538461538461|sealing|module reviving
+0.8025641025641025|sealing|before module ids
+0.8025641025641025|sealing|before module ids
+0.808974358974359|sealing|module ids
+0.808974358974359|sealing|module ids NamedModuleIdsPlugin
+0.808974358974359|sealing|module ids
+0.8153846153846154|sealing|module id optimization
+0.8153846153846154|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8282051282051281|sealing|chunk reviving
+0.8282051282051281|sealing|chunk reviving RecordIdsPlugin
+0.8282051282051281|sealing|chunk reviving
+0.8346153846153845|sealing|before chunk ids
+0.8346153846153845|sealing|before chunk ids
+0.8410256410256409|sealing|chunk ids
+0.8410256410256409|sealing|chunk ids NamedChunkIdsPlugin
+0.8410256410256409|sealing|chunk ids
+0.8474358974358974|sealing|chunk id optimization
+0.8474358974358974|sealing|chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8602564102564102|sealing|record modules
+0.8602564102564102|sealing|record modules RecordIdsPlugin
+0.8602564102564102|sealing|record modules
+0.8666666666666666|sealing|record chunks
+0.8666666666666666|sealing|record chunks RecordIdsPlugin
+0.8666666666666666|sealing|record chunks
+0.8730769230769231|sealing|module hashing
+0.8730769230769231|sealing|module hashing
+0.8794871794871795|sealing|code generation
+0.8794871794871795|sealing|code generation
+0.8858974358974359|sealing|runtime requirements
+0.8858974358974359|sealing|runtime requirements
+0.8923076923076922|sealing|hashing
+0.8923076923076922|sealing|hashing
+0.8987179487179486|sealing|after hashing
+0.8987179487179486|sealing|after hashing
+0.905128205128205|sealing|record hash
+0.905128205128205|sealing|record hash
+0.9115384615384615|sealing|module assets processing
+0.9115384615384615|sealing|module assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9243589743589743|sealing|asset processing
+0.9243589743589743|sealing|asset processing copy-webpack-plugin
+0.9243589743589743|sealing|asset processing HotModuleReplacementPlugin
+0.9243589743589743|sealing|asset processing PersistentChildCompilerSingletonPlugin
+0.9243589743589743|sealing|asset processing HtmlWebpackPlugin
+0.9243589743589743|sealing|asset processing
+0.9307692307692308|sealing|after asset optimization
+0.9307692307692308|sealing|after asset optimization
+0.9371794871794872|sealing|recording
+0.9371794871794872|sealing|recording HotModuleReplacementPlugin
+0.9371794871794872|sealing|recording
+0.9435897435897436|sealing|after seal
+0.9435897435897436|sealing|after seal
+0.95|emitting|emit
+0.95|emitting|emit
+0.98|emitting|after emit
+0.98|emitting|after emit
+0.99|done|plugins
+0.99|done|plugins CaseSensitivePathsPlugin
+0.99|done|plugins FriendlyErrorsWebpackPlugin
+0.99|done|plugins vue-cli-service serve
+0.99|done|plugins webpack-dev-server
+0.99|done|plugins webpack-dev-middleware
+0.99|done|plugins
+0.99||
+0.99|cache|store build dependencies
+0.99|cache|store build dependencies
+0.99|cache|begin idle
+0.99|cache|begin idle
+1||
+0||
+0.01|cache|end idle
+0.01|cache|end idle
+0.03|setup|watch run
+0.03|setup|watch run webpack-dev-middleware
+0.03|setup|watch run
+0.04|setup|normal module factory
+0.04|setup|normal module factory CaseSensitivePathsPlugin
+0.04|setup|normal module factory
+0.05|setup|context module factory
+0.05|setup|context module factory
+0.06|setup|before compile
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile
+0.07|setup|compile
+0.07|setup|compile ExternalsPlugin
+0.07|setup|compile
+0.08|setup|compilation
+0.08|setup|compilation HtmlWebpackPlugin
+0.08|setup|compilation CopyPlugin
+0.08|setup|compilation ArrayPushCallbackChunkFormatPlugin
+0.08|setup|compilation JsonpChunkLoadingPlugin
+0.08|setup|compilation StartupChunkDependenciesPlugin
+0.08|setup|compilation ImportScriptsChunkLoadingPlugin
+0.08|setup|compilation WorkerPlugin
+0.08|setup|compilation SplitChunksPlugin
+0.08|setup|compilation ResolverCachePlugin
+0.08|setup|compilation
+0.09|setup|compilation
+0.09|setup|compilation vue-loader-plugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ExternalsPlugin
+0.09|setup|compilation ChunkPrefetchPreloadPlugin
+0.09|setup|compilation ModuleInfoHeaderPlugin
+0.09|setup|compilation EvalSourceMapDevToolPlugin
+0.09|setup|compilation JavascriptModulesPlugin
+0.09|setup|compilation JsonModulesPlugin
+0.09|setup|compilation AssetModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation RuntimePlugin
+0.09|setup|compilation InferAsyncModulesPlugin
+0.09|setup|compilation DataUriPlugin
+0.09|setup|compilation FileUriPlugin
+0.09|setup|compilation CompatibilityPlugin
+0.09|setup|compilation HarmonyModulesPlugin
+0.09|setup|compilation AMDPlugin
+0.09|setup|compilation RequireJsStuffPlugin
+0.09|setup|compilation CommonJsPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation NodeStuffPlugin
+0.09|setup|compilation APIPlugin
+0.09|setup|compilation ExportsInfoApiPlugin
+0.09|setup|compilation WebpackIsIncludedPlugin
+0.09|setup|compilation ConstPlugin
+0.09|setup|compilation UseStrictPlugin
+0.09|setup|compilation RequireIncludePlugin
+0.09|setup|compilation RequireEnsurePlugin
+0.09|setup|compilation RequireContextPlugin
+0.09|setup|compilation ImportPlugin
+0.09|setup|compilation ImportMetaContextPlugin
+0.09|setup|compilation SystemPlugin
+0.09|setup|compilation ImportMetaPlugin
+0.09|setup|compilation URLPlugin
+0.09|setup|compilation DefaultStatsFactoryPlugin
+0.09|setup|compilation DefaultStatsPresetPlugin
+0.09|setup|compilation DefaultStatsPrinterPlugin
+0.09|setup|compilation JavascriptMetaInfoPlugin
+0.09|setup|compilation EnsureChunkConditionsPlugin
+0.09|setup|compilation RemoveEmptyChunksPlugin
+0.09|setup|compilation MergeDuplicateChunksPlugin
+0.09|setup|compilation SideEffectsFlagPlugin
+0.09|setup|compilation FlagDependencyExportsPlugin
+0.09|setup|compilation NamedModuleIdsPlugin
+0.09|setup|compilation NamedChunkIdsPlugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation TemplatedPathPlugin
+0.09|setup|compilation RecordIdsPlugin
+0.09|setup|compilation WarnCaseSensitiveModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ProvidePlugin
+0.09|setup|compilation HotModuleReplacementPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation
+0.1|building|
+0.1|building|0/1 entries 0/0 dependencies 0/0 modules
+0.11009174311926606|building|1/4 entries 4/8 dependencies 1/4 modules
+0.375|building|2/4 entries 12/14 dependencies 134/10 modules
+0.5125000000000002|building|3/4 entries 13/15 dependencies 277/11 modules
+0.5125000000000001|building|import loader ./node_modules/babel-loader/lib/index.js
+0.5125000000000001|building|3/4 entries 15/15 dependencies 441/12 modules
+0.6499999999999997|building|4/4 entries 216/216 dependencies 1162/173 modules
+0.65|building|
+0.69|building|finish
+0.69|building|finish
+0.7|sealing|finish module graph
+0.7|sealing|finish module graph ResolverCachePlugin
+0.7|sealing|finish module graph InferAsyncModulesPlugin
+0.7|sealing|finish module graph FlagDependencyExportsPlugin
+0.7|sealing|finish module graph
+0.7064102564102563|sealing|plugins
+0.7064102564102563|sealing|plugins WarnCaseSensitiveModulesPlugin
+0.7064102564102563|sealing|plugins
+0.7128205128205127|sealing|dependencies optimization
+0.7128205128205127|sealing|dependencies optimization SideEffectsFlagPlugin
+0.7128205128205127|sealing|dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7256410256410256|sealing|chunk graph
+0.7256410256410256|sealing|chunk graph
+0.732051282051282|sealing|after chunk graph
+0.732051282051282|sealing|after chunk graph
+0.7384615384615384|sealing|optimizing
+0.7384615384615384|sealing|optimizing
+0.7448717948717948|sealing|module optimization
+0.7448717948717948|sealing|module optimization
+0.7512820512820513|sealing|after module optimization
+0.7512820512820513|sealing|after module optimization
+0.7576923076923077|sealing|chunk optimization
+0.7576923076923077|sealing|chunk optimization EnsureChunkConditionsPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization MergeDuplicateChunksPlugin
+0.7576923076923077|sealing|chunk optimization SplitChunksPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7705128205128204|sealing|module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7961538461538461|sealing|module reviving
+0.7961538461538461|sealing|module reviving RecordIdsPlugin
+0.7961538461538461|sealing|module reviving
+0.8025641025641025|sealing|before module ids
+0.8025641025641025|sealing|before module ids
+0.808974358974359|sealing|module ids
+0.808974358974359|sealing|module ids NamedModuleIdsPlugin
+0.808974358974359|sealing|module ids
+0.8153846153846154|sealing|module id optimization
+0.8153846153846154|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8282051282051281|sealing|chunk reviving
+0.8282051282051281|sealing|chunk reviving RecordIdsPlugin
+0.8282051282051281|sealing|chunk reviving
+0.8346153846153845|sealing|before chunk ids
+0.8346153846153845|sealing|before chunk ids
+0.8410256410256409|sealing|chunk ids
+0.8410256410256409|sealing|chunk ids NamedChunkIdsPlugin
+0.8410256410256409|sealing|chunk ids
+0.8474358974358974|sealing|chunk id optimization
+0.8474358974358974|sealing|chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8602564102564102|sealing|record modules
+0.8602564102564102|sealing|record modules RecordIdsPlugin
+0.8602564102564102|sealing|record modules
+0.8666666666666666|sealing|record chunks
+0.8666666666666666|sealing|record chunks RecordIdsPlugin
+0.8666666666666666|sealing|record chunks
+0.8730769230769231|sealing|module hashing
+0.8730769230769231|sealing|module hashing
+0.8794871794871795|sealing|code generation
+0.8794871794871795|sealing|code generation
+0.8858974358974359|sealing|runtime requirements
+0.8858974358974359|sealing|runtime requirements
+0.8923076923076922|sealing|hashing
+0.8923076923076922|sealing|hashing
+0.8987179487179486|sealing|after hashing
+0.8987179487179486|sealing|after hashing
+0.905128205128205|sealing|record hash
+0.905128205128205|sealing|record hash
+0.9115384615384615|sealing|module assets processing
+0.9115384615384615|sealing|module assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9243589743589743|sealing|asset processing
+0.9243589743589743|sealing|asset processing copy-webpack-plugin
+0.9243589743589743|sealing|asset processing HotModuleReplacementPlugin
+0.9243589743589743|sealing|asset processing PersistentChildCompilerSingletonPlugin
+0.9243589743589743|sealing|asset processing HtmlWebpackPlugin
+0.9243589743589743|sealing|asset processing
+0.9307692307692308|sealing|after asset optimization
+0.9307692307692308|sealing|after asset optimization
+0.9371794871794872|sealing|recording
+0.9371794871794872|sealing|recording HotModuleReplacementPlugin
+0.9371794871794872|sealing|recording
+0.9435897435897436|sealing|after seal
+0.9435897435897436|sealing|after seal
+0.95|emitting|emit
+0.95|emitting|emit
+0.98|emitting|after emit
+0.98|emitting|after emit
+0.99|done|plugins
+0.99|done|plugins CaseSensitivePathsPlugin
+0.99|done|plugins FriendlyErrorsWebpackPlugin
+0.99|done|plugins vue-cli-service serve
+0.99|done|plugins webpack-dev-server
+0.99|done|plugins webpack-dev-middleware
+0.99|done|plugins
+0.99||
+0.99|cache|store build dependencies
+0.99|cache|store build dependencies
+0.99|cache|begin idle
+0.99|cache|begin idle
+1||
+0||
+0.01|cache|end idle
+0.01|cache|end idle
+0.03|setup|watch run
+0.03|setup|watch run webpack-dev-middleware
+0.03|setup|watch run
+0.04|setup|normal module factory
+0.04|setup|normal module factory CaseSensitivePathsPlugin
+0.04|setup|normal module factory
+0.05|setup|context module factory
+0.05|setup|context module factory
+0.06|setup|before compile
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile
+0.07|setup|compile
+0.07|setup|compile ExternalsPlugin
+0.07|setup|compile
+0.08|setup|compilation
+0.08|setup|compilation HtmlWebpackPlugin
+0.08|setup|compilation CopyPlugin
+0.08|setup|compilation ArrayPushCallbackChunkFormatPlugin
+0.08|setup|compilation JsonpChunkLoadingPlugin
+0.08|setup|compilation StartupChunkDependenciesPlugin
+0.08|setup|compilation ImportScriptsChunkLoadingPlugin
+0.08|setup|compilation WorkerPlugin
+0.08|setup|compilation SplitChunksPlugin
+0.08|setup|compilation ResolverCachePlugin
+0.08|setup|compilation
+0.09|setup|compilation
+0.09|setup|compilation vue-loader-plugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ExternalsPlugin
+0.09|setup|compilation ChunkPrefetchPreloadPlugin
+0.09|setup|compilation ModuleInfoHeaderPlugin
+0.09|setup|compilation EvalSourceMapDevToolPlugin
+0.09|setup|compilation JavascriptModulesPlugin
+0.09|setup|compilation JsonModulesPlugin
+0.09|setup|compilation AssetModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation RuntimePlugin
+0.09|setup|compilation InferAsyncModulesPlugin
+0.09|setup|compilation DataUriPlugin
+0.09|setup|compilation FileUriPlugin
+0.09|setup|compilation CompatibilityPlugin
+0.09|setup|compilation HarmonyModulesPlugin
+0.09|setup|compilation AMDPlugin
+0.09|setup|compilation RequireJsStuffPlugin
+0.09|setup|compilation CommonJsPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation NodeStuffPlugin
+0.09|setup|compilation APIPlugin
+0.09|setup|compilation ExportsInfoApiPlugin
+0.09|setup|compilation WebpackIsIncludedPlugin
+0.09|setup|compilation ConstPlugin
+0.09|setup|compilation UseStrictPlugin
+0.09|setup|compilation RequireIncludePlugin
+0.09|setup|compilation RequireEnsurePlugin
+0.09|setup|compilation RequireContextPlugin
+0.09|setup|compilation ImportPlugin
+0.09|setup|compilation ImportMetaContextPlugin
+0.09|setup|compilation SystemPlugin
+0.09|setup|compilation ImportMetaPlugin
+0.09|setup|compilation URLPlugin
+0.09|setup|compilation DefaultStatsFactoryPlugin
+0.09|setup|compilation DefaultStatsPresetPlugin
+0.09|setup|compilation DefaultStatsPrinterPlugin
+0.09|setup|compilation JavascriptMetaInfoPlugin
+0.09|setup|compilation EnsureChunkConditionsPlugin
+0.09|setup|compilation RemoveEmptyChunksPlugin
+0.09|setup|compilation MergeDuplicateChunksPlugin
+0.09|setup|compilation SideEffectsFlagPlugin
+0.09|setup|compilation FlagDependencyExportsPlugin
+0.09|setup|compilation NamedModuleIdsPlugin
+0.09|setup|compilation NamedChunkIdsPlugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation TemplatedPathPlugin
+0.09|setup|compilation RecordIdsPlugin
+0.09|setup|compilation WarnCaseSensitiveModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ProvidePlugin
+0.09|setup|compilation HotModuleReplacementPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation
+0.1|building|
+0.1|building|0/1 entries 0/0 dependencies 0/0 modules
+0.1101851851851852|building|1/4 entries 4/8 dependencies 1/4 modules
+0.375|building|2/4 entries 35/36 dependencies 134/32 modules
+0.39027777777777783|building|import loader ./node_modules/@vue/vue-loader-v15/lib/index.js
+0.39027777777777783|building|2/4 entries 114/114 dependencies 214/90 modules
+0.5125|building|3/4 entries 114/114 dependencies 267/90 modules
+0.6474537037037039|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/pitcher.js
+0.6474537037037039|building|import loader ./node_modules/babel-loader/lib/index.js
+0.6474537037037039|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js
+0.6474537037037039|building|3/4 entries 215/216 dependencies 531/173 modules
+0.6474537037037039|building|import loader ./node_modules/vue-style-loader/index.js
+0.6474537037037039|building|import loader ./node_modules/css-loader/dist/cjs.js
+0.6474537037037039|building|import loader ./node_modules/postcss-loader/dist/cjs.js
+0.6474537037037039|building|3/4 entries 215/216 dependencies 531/173 modules
+0.6500000000000002|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js
+0.6500000000000002|building|3/4 entries 221/221 dependencies 585/179 modules
+0.65|building|4/4 entries 229/229 dependencies 1170/185 modules
+0.65|building|
+0.69|building|finish
+0.69|building|finish
+0.7|sealing|finish module graph
+0.7|sealing|finish module graph ResolverCachePlugin
+0.7|sealing|finish module graph InferAsyncModulesPlugin
+0.7|sealing|finish module graph FlagDependencyExportsPlugin
+0.7|sealing|finish module graph
+0.7064102564102563|sealing|plugins
+0.7064102564102563|sealing|plugins WarnCaseSensitiveModulesPlugin
+0.7064102564102563|sealing|plugins
+0.7128205128205127|sealing|dependencies optimization
+0.7128205128205127|sealing|dependencies optimization SideEffectsFlagPlugin
+0.7128205128205127|sealing|dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7256410256410256|sealing|chunk graph
+0.7256410256410256|sealing|chunk graph
+0.732051282051282|sealing|after chunk graph
+0.732051282051282|sealing|after chunk graph
+0.7384615384615384|sealing|optimizing
+0.7384615384615384|sealing|optimizing
+0.7448717948717948|sealing|module optimization
+0.7448717948717948|sealing|module optimization
+0.7512820512820513|sealing|after module optimization
+0.7512820512820513|sealing|after module optimization
+0.7576923076923077|sealing|chunk optimization
+0.7576923076923077|sealing|chunk optimization EnsureChunkConditionsPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization MergeDuplicateChunksPlugin
+0.7576923076923077|sealing|chunk optimization SplitChunksPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7705128205128204|sealing|module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7961538461538461|sealing|module reviving
+0.7961538461538461|sealing|module reviving RecordIdsPlugin
+0.7961538461538461|sealing|module reviving
+0.8025641025641025|sealing|before module ids
+0.8025641025641025|sealing|before module ids
+0.808974358974359|sealing|module ids
+0.808974358974359|sealing|module ids NamedModuleIdsPlugin
+0.808974358974359|sealing|module ids
+0.8153846153846154|sealing|module id optimization
+0.8153846153846154|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8282051282051281|sealing|chunk reviving
+0.8282051282051281|sealing|chunk reviving RecordIdsPlugin
+0.8282051282051281|sealing|chunk reviving
+0.8346153846153845|sealing|before chunk ids
+0.8346153846153845|sealing|before chunk ids
+0.8410256410256409|sealing|chunk ids
+0.8410256410256409|sealing|chunk ids NamedChunkIdsPlugin
+0.8410256410256409|sealing|chunk ids
+0.8474358974358974|sealing|chunk id optimization
+0.8474358974358974|sealing|chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8602564102564102|sealing|record modules
+0.8602564102564102|sealing|record modules RecordIdsPlugin
+0.8602564102564102|sealing|record modules
+0.8666666666666666|sealing|record chunks
+0.8666666666666666|sealing|record chunks RecordIdsPlugin
+0.8666666666666666|sealing|record chunks
+0.8730769230769231|sealing|module hashing
+0.8730769230769231|sealing|module hashing
+0.8794871794871795|sealing|code generation
+0.8794871794871795|sealing|code generation
+0.8858974358974359|sealing|runtime requirements
+0.8858974358974359|sealing|runtime requirements
+0.8923076923076922|sealing|hashing
+0.8923076923076922|sealing|hashing
+0.8987179487179486|sealing|after hashing
+0.8987179487179486|sealing|after hashing
+0.905128205128205|sealing|record hash
+0.905128205128205|sealing|record hash
+0.9115384615384615|sealing|module assets processing
+0.9115384615384615|sealing|module assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9243589743589743|sealing|asset processing
+0.9243589743589743|sealing|asset processing copy-webpack-plugin
+0.9243589743589743|sealing|asset processing HotModuleReplacementPlugin
+0.9243589743589743|sealing|asset processing PersistentChildCompilerSingletonPlugin
+0.9243589743589743|sealing|asset processing HtmlWebpackPlugin
+0.9243589743589743|sealing|asset processing
+0.9307692307692308|sealing|after asset optimization
+0.9307692307692308|sealing|after asset optimization
+0.9371794871794872|sealing|recording
+0.9371794871794872|sealing|recording HotModuleReplacementPlugin
+0.9371794871794872|sealing|recording
+0.9435897435897436|sealing|after seal
+0.9435897435897436|sealing|after seal
+0.95|emitting|emit
+0.95|emitting|emit
+0.98|emitting|after emit
+0.98|emitting|after emit
+0.99|done|plugins
+0.99|done|plugins CaseSensitivePathsPlugin
+0.99|done|plugins FriendlyErrorsWebpackPlugin
+0.99|done|plugins vue-cli-service serve
+0.99|done|plugins webpack-dev-server
+0.99|done|plugins webpack-dev-middleware
+0.99|done|plugins
+0.99||
+0.99|cache|store build dependencies
+0.99|cache|store build dependencies
+0.99|cache|begin idle
+0.99|cache|begin idle
+1||
+0||
+0.01|cache|end idle
+0.01|cache|end idle
+0.03|setup|watch run
+0.03|setup|watch run webpack-dev-middleware
+0.03|setup|watch run
+0.04|setup|normal module factory
+0.04|setup|normal module factory CaseSensitivePathsPlugin
+0.04|setup|normal module factory
+0.05|setup|context module factory
+0.05|setup|context module factory
+0.06|setup|before compile
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile
+0.07|setup|compile
+0.07|setup|compile ExternalsPlugin
+0.07|setup|compile
+0.08|setup|compilation
+0.08|setup|compilation HtmlWebpackPlugin
+0.08|setup|compilation CopyPlugin
+0.08|setup|compilation ArrayPushCallbackChunkFormatPlugin
+0.08|setup|compilation JsonpChunkLoadingPlugin
+0.08|setup|compilation StartupChunkDependenciesPlugin
+0.08|setup|compilation ImportScriptsChunkLoadingPlugin
+0.08|setup|compilation WorkerPlugin
+0.08|setup|compilation SplitChunksPlugin
+0.08|setup|compilation ResolverCachePlugin
+0.08|setup|compilation
+0.09|setup|compilation
+0.09|setup|compilation vue-loader-plugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ExternalsPlugin
+0.09|setup|compilation ChunkPrefetchPreloadPlugin
+0.09|setup|compilation ModuleInfoHeaderPlugin
+0.09|setup|compilation EvalSourceMapDevToolPlugin
+0.09|setup|compilation JavascriptModulesPlugin
+0.09|setup|compilation JsonModulesPlugin
+0.09|setup|compilation AssetModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation RuntimePlugin
+0.09|setup|compilation InferAsyncModulesPlugin
+0.09|setup|compilation DataUriPlugin
+0.09|setup|compilation FileUriPlugin
+0.09|setup|compilation CompatibilityPlugin
+0.09|setup|compilation HarmonyModulesPlugin
+0.09|setup|compilation AMDPlugin
+0.09|setup|compilation RequireJsStuffPlugin
+0.09|setup|compilation CommonJsPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation NodeStuffPlugin
+0.09|setup|compilation APIPlugin
+0.09|setup|compilation ExportsInfoApiPlugin
+0.09|setup|compilation WebpackIsIncludedPlugin
+0.09|setup|compilation ConstPlugin
+0.09|setup|compilation UseStrictPlugin
+0.09|setup|compilation RequireIncludePlugin
+0.09|setup|compilation RequireEnsurePlugin
+0.09|setup|compilation RequireContextPlugin
+0.09|setup|compilation ImportPlugin
+0.09|setup|compilation ImportMetaContextPlugin
+0.09|setup|compilation SystemPlugin
+0.09|setup|compilation ImportMetaPlugin
+0.09|setup|compilation URLPlugin
+0.09|setup|compilation DefaultStatsFactoryPlugin
+0.09|setup|compilation DefaultStatsPresetPlugin
+0.09|setup|compilation DefaultStatsPrinterPlugin
+0.09|setup|compilation JavascriptMetaInfoPlugin
+0.09|setup|compilation EnsureChunkConditionsPlugin
+0.09|setup|compilation RemoveEmptyChunksPlugin
+0.09|setup|compilation MergeDuplicateChunksPlugin
+0.09|setup|compilation SideEffectsFlagPlugin
+0.09|setup|compilation FlagDependencyExportsPlugin
+0.09|setup|compilation NamedModuleIdsPlugin
+0.09|setup|compilation NamedChunkIdsPlugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation TemplatedPathPlugin
+0.09|setup|compilation RecordIdsPlugin
+0.09|setup|compilation WarnCaseSensitiveModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ProvidePlugin
+0.09|setup|compilation HotModuleReplacementPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation
+0.1|building|
+0.1|building|0/1 entries 0/0 dependencies 0/0 modules
+0.10960698689956332|building|1/4 entries 4/8 dependencies 1/4 modules
+0.3750000000000001|building|2/4 entries 35/36 dependencies 134/32 modules
+0.3749999999999999|building|import loader ./node_modules/@vue/vue-loader-v15/lib/index.js
+0.3749999999999999|building|2/4 entries 114/114 dependencies 214/90 modules
+0.5125000000000001|building|3/4 entries 114/114 dependencies 267/90 modules
+0.6307860262008733|building|import loader ./node_modules/babel-loader/lib/index.js
+0.6307860262008733|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js
+0.6307860262008733|building|3/4 entries 221/221 dependencies 585/179 modules
+0.640393013100437|building|import loader ./node_modules/css-loader/dist/cjs.js
+0.640393013100437|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js
+0.640393013100437|building|import loader ./node_modules/postcss-loader/dist/cjs.js
+0.640393013100437|building|3/4 entries 225/225 dependencies 1031/181 modules
+0.65|building|4/4 entries 228/228 dependencies 1170/184 modules
+0.65|building|
+0.69|building|finish
+0.69|building|finish
+0.7|sealing|finish module graph
+0.7|sealing|finish module graph ResolverCachePlugin
+0.7|sealing|finish module graph InferAsyncModulesPlugin
+0.7|sealing|finish module graph FlagDependencyExportsPlugin
+0.7|sealing|finish module graph
+0.7064102564102563|sealing|plugins
+0.7064102564102563|sealing|plugins WarnCaseSensitiveModulesPlugin
+0.7064102564102563|sealing|plugins
+0.7128205128205127|sealing|dependencies optimization
+0.7128205128205127|sealing|dependencies optimization SideEffectsFlagPlugin
+0.7128205128205127|sealing|dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7256410256410256|sealing|chunk graph
+0.7256410256410256|sealing|chunk graph
+0.732051282051282|sealing|after chunk graph
+0.732051282051282|sealing|after chunk graph
+0.7384615384615384|sealing|optimizing
+0.7384615384615384|sealing|optimizing
+0.7448717948717948|sealing|module optimization
+0.7448717948717948|sealing|module optimization
+0.7512820512820513|sealing|after module optimization
+0.7512820512820513|sealing|after module optimization
+0.7576923076923077|sealing|chunk optimization
+0.7576923076923077|sealing|chunk optimization EnsureChunkConditionsPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization MergeDuplicateChunksPlugin
+0.7576923076923077|sealing|chunk optimization SplitChunksPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7705128205128204|sealing|module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7961538461538461|sealing|module reviving
+0.7961538461538461|sealing|module reviving RecordIdsPlugin
+0.7961538461538461|sealing|module reviving
+0.8025641025641025|sealing|before module ids
+0.8025641025641025|sealing|before module ids
+0.808974358974359|sealing|module ids
+0.808974358974359|sealing|module ids NamedModuleIdsPlugin
+0.808974358974359|sealing|module ids
+0.8153846153846154|sealing|module id optimization
+0.8153846153846154|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8282051282051281|sealing|chunk reviving
+0.8282051282051281|sealing|chunk reviving RecordIdsPlugin
+0.8282051282051281|sealing|chunk reviving
+0.8346153846153845|sealing|before chunk ids
+0.8346153846153845|sealing|before chunk ids
+0.8410256410256409|sealing|chunk ids
+0.8410256410256409|sealing|chunk ids NamedChunkIdsPlugin
+0.8410256410256409|sealing|chunk ids
+0.8474358974358974|sealing|chunk id optimization
+0.8474358974358974|sealing|chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8602564102564102|sealing|record modules
+0.8602564102564102|sealing|record modules RecordIdsPlugin
+0.8602564102564102|sealing|record modules
+0.8666666666666666|sealing|record chunks
+0.8666666666666666|sealing|record chunks RecordIdsPlugin
+0.8666666666666666|sealing|record chunks
+0.8730769230769231|sealing|module hashing
+0.8730769230769231|sealing|module hashing
+0.8794871794871795|sealing|code generation
+0.8794871794871795|sealing|code generation
+0.8858974358974359|sealing|runtime requirements
+0.8858974358974359|sealing|runtime requirements
+0.8923076923076922|sealing|hashing
+0.8923076923076922|sealing|hashing
+0.8987179487179486|sealing|after hashing
+0.8987179487179486|sealing|after hashing
+0.905128205128205|sealing|record hash
+0.905128205128205|sealing|record hash
+0.9115384615384615|sealing|module assets processing
+0.9115384615384615|sealing|module assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9243589743589743|sealing|asset processing
+0.9243589743589743|sealing|asset processing copy-webpack-plugin
+0.9243589743589743|sealing|asset processing HotModuleReplacementPlugin
+0.9243589743589743|sealing|asset processing PersistentChildCompilerSingletonPlugin
+0.9243589743589743|sealing|asset processing HtmlWebpackPlugin
+0.9243589743589743|sealing|asset processing
+0.9307692307692308|sealing|after asset optimization
+0.9307692307692308|sealing|after asset optimization
+0.9371794871794872|sealing|recording
+0.9371794871794872|sealing|recording HotModuleReplacementPlugin
+0.9371794871794872|sealing|recording
+0.9435897435897436|sealing|after seal
+0.9435897435897436|sealing|after seal
+0.95|emitting|emit
+0.95|emitting|emit
+0.98|emitting|after emit
+0.98|emitting|after emit
+0.99|done|plugins
+0.99|done|plugins CaseSensitivePathsPlugin
+0.99|done|plugins FriendlyErrorsWebpackPlugin
+0.99|done|plugins vue-cli-service serve
+0.99|done|plugins webpack-dev-server
+0.99|done|plugins webpack-dev-middleware
+0.99|done|plugins
+0.99||
+0.99|cache|store build dependencies
+0.99|cache|store build dependencies
+0.99|cache|begin idle
+0.99|cache|begin idle
+1||
+0.03|setup|watch run
+0.03|setup|watch run webpack-dev-middleware
+0.03|setup|watch run
+0.04|setup|normal module factory
+0.04|setup|normal module factory CaseSensitivePathsPlugin
+0.04|setup|normal module factory
+0.05|setup|context module factory
+0.05|setup|context module factory
+0.06|setup|before compile
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile
+0.07|setup|compile
+0.07|setup|compile ExternalsPlugin
+0.07|setup|compile
+0.08|setup|compilation
+0.08|setup|compilation HtmlWebpackPlugin
+0.08|setup|compilation CopyPlugin
+0.08|setup|compilation ArrayPushCallbackChunkFormatPlugin
+0.08|setup|compilation JsonpChunkLoadingPlugin
+0.08|setup|compilation StartupChunkDependenciesPlugin
+0.08|setup|compilation ImportScriptsChunkLoadingPlugin
+0.08|setup|compilation WorkerPlugin
+0.08|setup|compilation SplitChunksPlugin
+0.08|setup|compilation ResolverCachePlugin
+0.08|setup|compilation
+0.09|setup|compilation
+0.09|setup|compilation vue-loader-plugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ExternalsPlugin
+0.09|setup|compilation ChunkPrefetchPreloadPlugin
+0.09|setup|compilation ModuleInfoHeaderPlugin
+0.09|setup|compilation EvalSourceMapDevToolPlugin
+0.09|setup|compilation JavascriptModulesPlugin
+0.09|setup|compilation JsonModulesPlugin
+0.09|setup|compilation AssetModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation RuntimePlugin
+0.09|setup|compilation InferAsyncModulesPlugin
+0.09|setup|compilation DataUriPlugin
+0.09|setup|compilation FileUriPlugin
+0.09|setup|compilation CompatibilityPlugin
+0.09|setup|compilation HarmonyModulesPlugin
+0.09|setup|compilation AMDPlugin
+0.09|setup|compilation RequireJsStuffPlugin
+0.09|setup|compilation CommonJsPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation NodeStuffPlugin
+0.09|setup|compilation APIPlugin
+0.09|setup|compilation ExportsInfoApiPlugin
+0.09|setup|compilation WebpackIsIncludedPlugin
+0.09|setup|compilation ConstPlugin
+0.09|setup|compilation UseStrictPlugin
+0.09|setup|compilation RequireIncludePlugin
+0.09|setup|compilation RequireEnsurePlugin
+0.09|setup|compilation RequireContextPlugin
+0.09|setup|compilation ImportPlugin
+0.09|setup|compilation ImportMetaContextPlugin
+0.09|setup|compilation SystemPlugin
+0.09|setup|compilation ImportMetaPlugin
+0.09|setup|compilation URLPlugin
+0.09|setup|compilation DefaultStatsFactoryPlugin
+0.09|setup|compilation DefaultStatsPresetPlugin
+0.09|setup|compilation DefaultStatsPrinterPlugin
+0.09|setup|compilation JavascriptMetaInfoPlugin
+0.09|setup|compilation EnsureChunkConditionsPlugin
+0.09|setup|compilation RemoveEmptyChunksPlugin
+0.09|setup|compilation MergeDuplicateChunksPlugin
+0.09|setup|compilation SideEffectsFlagPlugin
+0.09|setup|compilation FlagDependencyExportsPlugin
+0.09|setup|compilation NamedModuleIdsPlugin
+0.09|setup|compilation NamedChunkIdsPlugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation TemplatedPathPlugin
+0.09|setup|compilation RecordIdsPlugin
+0.09|setup|compilation WarnCaseSensitiveModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ProvidePlugin
+0.09|setup|compilation HotModuleReplacementPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation
+0.1|building|
+0.1|building|0/1 entries 0/0 dependencies 0/0 modules
+0.1|building|0/4 entries 1/4 dependencies 0/0 modules
+0.1|building|import loader ./node_modules/babel-loader/lib/index.js
+0.1|building|0/4 entries 2/7 dependencies 0/2 modules
+0.23750000000000004|building|1/4 entries 11/12 dependencies 3/7 modules
+0.2375|building|import loader ./node_modules/@vue/vue-loader-v15/lib/index.js
+0.2375|building|1/4 entries 23/48 dependencies 5/17 modules
+0.23750000000000004|building|import loader ./node_modules/vue-style-loader/index.js
+0.23750000000000004|building|import loader ./node_modules/css-loader/dist/cjs.js
+0.23750000000000004|building|import loader ./node_modules/postcss-loader/dist/cjs.js
+0.23750000000000004|building|1/4 entries 48/61 dependencies 7/34 modules
+0.23750000000000004|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/pitcher.js
+0.23750000000000004|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js
+0.23750000000000004|building|1/4 entries 58/117 dependencies 7/38 modules
+0.2375|building|1/4 entries 64/154 dependencies 8/42 modules
+0.23749999999999996|building|1/4 entries 70/158 dependencies 11/44 modules
+0.2375|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/stylePostLoader.js
+0.2375|building|1/4 entries 428/463 dependencies 28/198 modules
+0.375|building|2/4 entries 507/567 dependencies 31/266 modules
+0.375|building|2/4 entries 668/722 dependencies 63/300 modules
+0.375|building|2/4 entries 831/900 dependencies 150/361 modules
+0.375|building|2/4 entries 1168/1200 dependencies 244/404 modules
+0.5125000000000001|building|3/4 entries 1475/1481 dependencies 343/485 modules
+0.5125000000000001|building|3/4 entries 1600/1639 dependencies 374/545 modules
+0.5125000000000001|building|3/4 entries 1800/2004 dependencies 384/638 modules
+0.5125000000000001|building|3/4 entries 2000/2065 dependencies 390/773 modules
+0.5125|building|3/4 entries 2200/2364 dependencies 420/833 modules
+0.5125000000000001|building|3/4 entries 2430/2500 dependencies 439/920 modules
+0.5125000000000001|building|3/4 entries 2800/2837 dependencies 458/976 modules
+0.5125000000000001|building|3/4 entries 3200/3233 dependencies 480/1011 modules
+0.5125|building|3/4 entries 3600/3658 dependencies 504/1049 modules
+0.5125000000000001|building|3/4 entries 4157/4157 dependencies 781/1100 modules
+0.5125|building|3/4 entries 4488/4500 dependencies 988/1149 modules
+0.65|building|4/4 entries 4688/4688 dependencies 1170/1170 modules
+0.65|building|
+0.69|building|finish
+0.69|building|finish
+0.7|sealing|finish module graph
+0.7|sealing|finish module graph ResolverCachePlugin
+0.7|sealing|finish module graph InferAsyncModulesPlugin
+0.7|sealing|finish module graph FlagDependencyExportsPlugin
+0.7|sealing|finish module graph
+0.7064102564102563|sealing|plugins
+0.7064102564102563|sealing|plugins WarnCaseSensitiveModulesPlugin
+0.7064102564102563|sealing|plugins
+0.7128205128205127|sealing|dependencies optimization
+0.7128205128205127|sealing|dependencies optimization SideEffectsFlagPlugin
+0.7128205128205127|sealing|dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7256410256410256|sealing|chunk graph
+0.7256410256410256|sealing|chunk graph
+0.732051282051282|sealing|after chunk graph
+0.732051282051282|sealing|after chunk graph
+0.7384615384615384|sealing|optimizing
+0.7384615384615384|sealing|optimizing
+0.7448717948717948|sealing|module optimization
+0.7448717948717948|sealing|module optimization
+0.7512820512820513|sealing|after module optimization
+0.7512820512820513|sealing|after module optimization
+0.7576923076923077|sealing|chunk optimization
+0.7576923076923077|sealing|chunk optimization EnsureChunkConditionsPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization MergeDuplicateChunksPlugin
+0.7576923076923077|sealing|chunk optimization SplitChunksPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7705128205128204|sealing|module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7961538461538461|sealing|module reviving
+0.7961538461538461|sealing|module reviving RecordIdsPlugin
+0.7961538461538461|sealing|module reviving
+0.8025641025641025|sealing|before module ids
+0.8025641025641025|sealing|before module ids
+0.808974358974359|sealing|module ids
+0.808974358974359|sealing|module ids NamedModuleIdsPlugin
+0.808974358974359|sealing|module ids
+0.8153846153846154|sealing|module id optimization
+0.8153846153846154|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8282051282051281|sealing|chunk reviving
+0.8282051282051281|sealing|chunk reviving RecordIdsPlugin
+0.8282051282051281|sealing|chunk reviving
+0.8346153846153845|sealing|before chunk ids
+0.8346153846153845|sealing|before chunk ids
+0.8410256410256409|sealing|chunk ids
+0.8410256410256409|sealing|chunk ids NamedChunkIdsPlugin
+0.8410256410256409|sealing|chunk ids
+0.8474358974358974|sealing|chunk id optimization
+0.8474358974358974|sealing|chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8602564102564102|sealing|record modules
+0.8602564102564102|sealing|record modules RecordIdsPlugin
+0.8602564102564102|sealing|record modules
+0.8666666666666666|sealing|record chunks
+0.8666666666666666|sealing|record chunks RecordIdsPlugin
+0.8666666666666666|sealing|record chunks
+0.8730769230769231|sealing|module hashing
+0.8730769230769231|sealing|module hashing
+0.8794871794871795|sealing|code generation
+0.8794871794871795|sealing|code generation
+0.8858974358974359|sealing|runtime requirements
+0.8858974358974359|sealing|runtime requirements
+0.8923076923076922|sealing|hashing
+0.8923076923076922|sealing|hashing
+0.8987179487179486|sealing|after hashing
+0.8987179487179486|sealing|after hashing
+0.905128205128205|sealing|record hash
+0.905128205128205|sealing|record hash
+0.9115384615384615|sealing|module assets processing
+0.9115384615384615|sealing|module assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9243589743589743|sealing|asset processing
+0.9243589743589743|sealing|asset processing copy-webpack-plugin
+0.9243589743589743|sealing|asset processing HotModuleReplacementPlugin
+0.9243589743589743|sealing|asset processing PersistentChildCompilerSingletonPlugin
+0.9243589743589743|sealing|asset processing HtmlWebpackPlugin
+0.9243589743589743|sealing|asset processing
+0.9307692307692308|sealing|after asset optimization
+0.9307692307692308|sealing|after asset optimization
+0.9371794871794872|sealing|recording
+0.9371794871794872|sealing|recording HotModuleReplacementPlugin
+0.9371794871794872|sealing|recording
+0.9435897435897436|sealing|after seal
+0.9435897435897436|sealing|after seal
+0.95|emitting|emit
+0.95|emitting|emit
+0.98|emitting|after emit
+0.98|emitting|after emit
+0.99|done|plugins
+0.99|done|plugins CaseSensitivePathsPlugin
+0.99|done|plugins FriendlyErrorsWebpackPlugin
+0.99|done|plugins vue-cli-service serve
+0.99|done|plugins webpack-dev-server
+0.99|done|plugins webpack-dev-middleware
+0.99|done|plugins
+0.99||
+0.99|cache|store build dependencies
+0.99|cache|store build dependencies
+0.99|cache|begin idle
+0.99|cache|begin idle
+1||
+0||
+0.01|cache|end idle
+0.01|cache|end idle
+0.03|setup|watch run
+0.03|setup|watch run webpack-dev-middleware
+0.03|setup|watch run
+0.04|setup|normal module factory
+0.04|setup|normal module factory CaseSensitivePathsPlugin
+0.04|setup|normal module factory
+0.05|setup|context module factory
+0.05|setup|context module factory
+0.06|setup|before compile
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile ProgressPlugin
+0.06|setup|before compile
+0.07|setup|compile
+0.07|setup|compile ExternalsPlugin
+0.07|setup|compile
+0.08|setup|compilation
+0.08|setup|compilation HtmlWebpackPlugin
+0.08|setup|compilation CopyPlugin
+0.08|setup|compilation ArrayPushCallbackChunkFormatPlugin
+0.08|setup|compilation JsonpChunkLoadingPlugin
+0.08|setup|compilation StartupChunkDependenciesPlugin
+0.08|setup|compilation ImportScriptsChunkLoadingPlugin
+0.08|setup|compilation WorkerPlugin
+0.08|setup|compilation SplitChunksPlugin
+0.08|setup|compilation ResolverCachePlugin
+0.08|setup|compilation
+0.09|setup|compilation
+0.09|setup|compilation vue-loader-plugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ExternalsPlugin
+0.09|setup|compilation ChunkPrefetchPreloadPlugin
+0.09|setup|compilation ModuleInfoHeaderPlugin
+0.09|setup|compilation EvalSourceMapDevToolPlugin
+0.09|setup|compilation JavascriptModulesPlugin
+0.09|setup|compilation JsonModulesPlugin
+0.09|setup|compilation AssetModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation RuntimePlugin
+0.09|setup|compilation InferAsyncModulesPlugin
+0.09|setup|compilation DataUriPlugin
+0.09|setup|compilation FileUriPlugin
+0.09|setup|compilation CompatibilityPlugin
+0.09|setup|compilation HarmonyModulesPlugin
+0.09|setup|compilation AMDPlugin
+0.09|setup|compilation RequireJsStuffPlugin
+0.09|setup|compilation CommonJsPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation LoaderPlugin
+0.09|setup|compilation NodeStuffPlugin
+0.09|setup|compilation APIPlugin
+0.09|setup|compilation ExportsInfoApiPlugin
+0.09|setup|compilation WebpackIsIncludedPlugin
+0.09|setup|compilation ConstPlugin
+0.09|setup|compilation UseStrictPlugin
+0.09|setup|compilation RequireIncludePlugin
+0.09|setup|compilation RequireEnsurePlugin
+0.09|setup|compilation RequireContextPlugin
+0.09|setup|compilation ImportPlugin
+0.09|setup|compilation ImportMetaContextPlugin
+0.09|setup|compilation SystemPlugin
+0.09|setup|compilation ImportMetaPlugin
+0.09|setup|compilation URLPlugin
+0.09|setup|compilation DefaultStatsFactoryPlugin
+0.09|setup|compilation DefaultStatsPresetPlugin
+0.09|setup|compilation DefaultStatsPrinterPlugin
+0.09|setup|compilation JavascriptMetaInfoPlugin
+0.09|setup|compilation EnsureChunkConditionsPlugin
+0.09|setup|compilation RemoveEmptyChunksPlugin
+0.09|setup|compilation MergeDuplicateChunksPlugin
+0.09|setup|compilation SideEffectsFlagPlugin
+0.09|setup|compilation FlagDependencyExportsPlugin
+0.09|setup|compilation NamedModuleIdsPlugin
+0.09|setup|compilation NamedChunkIdsPlugin
+0.09|setup|compilation DefinePlugin
+0.09|setup|compilation TemplatedPathPlugin
+0.09|setup|compilation RecordIdsPlugin
+0.09|setup|compilation WarnCaseSensitiveModulesPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation EntryPlugin
+0.09|setup|compilation ProvidePlugin
+0.09|setup|compilation HotModuleReplacementPlugin
+0.09|setup|compilation ProgressPlugin
+0.09|setup|compilation
+0.1|building|
+0.1|building|0/1 entries 0/0 dependencies 0/0 modules
+0.10047008547008549|building|1/4 entries 4/8 dependencies 1/4 modules
+0.13666666666666663|building|2/4 entries 10/12 dependencies 78/9 modules
+0.22645299145299144|building|3/4 entries 13/15 dependencies 269/11 modules
+0.3073076923076923|building|import loader ./node_modules/babel-loader/lib/index.js
+0.3073076923076923|building|3/4 entries 15/15 dependencies 441/12 modules
+0.3073076923076923|building|3/4 entries 15/16 dependencies 441/12 modules
+0.343974358974359|building|import loader ./node_modules/@vue/vue-loader-v15/lib/index.js
+0.343974358974359|building|3/4 entries 215/217 dependencies 519/173 modules
+0.3797008547008547|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/pitcher.js
+0.3797008547008547|building|import loader ./node_modules/@vue/vue-loader-v15/lib/loaders/templateLoader.js
+0.3797008547008547|building|3/4 entries 229/232 dependencies 595/184 modules
+0.6500000000000001|building|4/4 entries 234/234 dependencies 1175/188 modules
+0.65|building|
+0.69|building|finish
+0.69|building|finish
+0.7|sealing|finish module graph
+0.7|sealing|finish module graph ResolverCachePlugin
+0.7|sealing|finish module graph InferAsyncModulesPlugin
+0.7|sealing|finish module graph FlagDependencyExportsPlugin
+0.7|sealing|finish module graph
+0.7064102564102563|sealing|plugins
+0.7064102564102563|sealing|plugins WarnCaseSensitiveModulesPlugin
+0.7064102564102563|sealing|plugins
+0.7128205128205127|sealing|dependencies optimization
+0.7128205128205127|sealing|dependencies optimization SideEffectsFlagPlugin
+0.7128205128205127|sealing|dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7192307692307692|sealing|after dependencies optimization
+0.7256410256410256|sealing|chunk graph
+0.7256410256410256|sealing|chunk graph
+0.732051282051282|sealing|after chunk graph
+0.732051282051282|sealing|after chunk graph
+0.7384615384615384|sealing|optimizing
+0.7384615384615384|sealing|optimizing
+0.7448717948717948|sealing|module optimization
+0.7448717948717948|sealing|module optimization
+0.7512820512820513|sealing|after module optimization
+0.7512820512820513|sealing|after module optimization
+0.7576923076923077|sealing|chunk optimization
+0.7576923076923077|sealing|chunk optimization EnsureChunkConditionsPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization MergeDuplicateChunksPlugin
+0.7576923076923077|sealing|chunk optimization SplitChunksPlugin
+0.7576923076923077|sealing|chunk optimization RemoveEmptyChunksPlugin
+0.7576923076923077|sealing|chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.764102564102564|sealing|after chunk optimization
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7705128205128204|sealing|module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+0.7705128205128204|sealing|module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7769230769230768|sealing|after module and chunk tree optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7833333333333333|sealing|chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7897435897435897|sealing|after chunk modules optimization
+0.7961538461538461|sealing|module reviving
+0.7961538461538461|sealing|module reviving RecordIdsPlugin
+0.7961538461538461|sealing|module reviving
+0.8025641025641025|sealing|before module ids
+0.8025641025641025|sealing|before module ids
+0.808974358974359|sealing|module ids
+0.808974358974359|sealing|module ids NamedModuleIdsPlugin
+0.808974358974359|sealing|module ids
+0.8153846153846154|sealing|module id optimization
+0.8153846153846154|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8217948717948718|sealing|module id optimization
+0.8282051282051281|sealing|chunk reviving
+0.8282051282051281|sealing|chunk reviving RecordIdsPlugin
+0.8282051282051281|sealing|chunk reviving
+0.8346153846153845|sealing|before chunk ids
+0.8346153846153845|sealing|before chunk ids
+0.8410256410256409|sealing|chunk ids
+0.8410256410256409|sealing|chunk ids NamedChunkIdsPlugin
+0.8410256410256409|sealing|chunk ids
+0.8474358974358974|sealing|chunk id optimization
+0.8474358974358974|sealing|chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8538461538461538|sealing|after chunk id optimization
+0.8602564102564102|sealing|record modules
+0.8602564102564102|sealing|record modules RecordIdsPlugin
+0.8602564102564102|sealing|record modules
+0.8666666666666666|sealing|record chunks
+0.8666666666666666|sealing|record chunks RecordIdsPlugin
+0.8666666666666666|sealing|record chunks
+0.8730769230769231|sealing|module hashing
+0.8730769230769231|sealing|module hashing
+0.8794871794871795|sealing|code generation
+0.8794871794871795|sealing|code generation
+0.8858974358974359|sealing|runtime requirements
+0.8858974358974359|sealing|runtime requirements
+0.8923076923076922|sealing|hashing
+0.8923076923076922|sealing|hashing
+0.8987179487179486|sealing|after hashing
+0.8987179487179486|sealing|after hashing
+0.905128205128205|sealing|record hash
+0.905128205128205|sealing|record hash
+0.9115384615384615|sealing|module assets processing
+0.9115384615384615|sealing|module assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9179487179487179|sealing|chunk assets processing
+0.9243589743589743|sealing|asset processing
+0.9243589743589743|sealing|asset processing copy-webpack-plugin
+0.9243589743589743|sealing|asset processing HotModuleReplacementPlugin
+0.9243589743589743|sealing|asset processing PersistentChildCompilerSingletonPlugin
+0.9243589743589743|sealing|asset processing HtmlWebpackPlugin
+0.9243589743589743|sealing|asset processing
+0.9307692307692308|sealing|after asset optimization
+0.9307692307692308|sealing|after asset optimization
+0.9371794871794872|sealing|recording
+0.9371794871794872|sealing|recording HotModuleReplacementPlugin
+0.9371794871794872|sealing|recording
+0.9435897435897436|sealing|after seal
+0.9435897435897436|sealing|after seal
+0.95|emitting|emit
+0.95|emitting|emit
+0.98|emitting|after emit
+0.98|emitting|after emit
+0.99|done|plugins
+0.99|done|plugins CaseSensitivePathsPlugin
+0.99|done|plugins FriendlyErrorsWebpackPlugin
+0.99|done|plugins vue-cli-service serve
+0.99|done|plugins webpack-dev-server
+0.99|done|plugins webpack-dev-middleware
+0.99|done|plugins
+0.99||
+0.99|cache|store build dependencies
+0.99|cache|store build dependencies
+0.99|cache|begin idle
+0.99|cache|begin idle
+1||

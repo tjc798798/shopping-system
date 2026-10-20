@@ -25,7 +25,20 @@ public class FileController {
     @Value("${server.port}")
     String port;
 
-    private static final String ROOT_PATH =  System.getProperty("user.dir") + File.separator + "files";
+    private static final String ROOT_PATH =  getFileRootPath();
+
+    private static String getFileRootPath() {
+        String userDir = System.getProperty("user.dir");
+        String path = userDir + File.separator + "files";
+        if (!new File(path).exists()) {
+            // 尝试上一级目录
+            String parentPath = new File(userDir).getParent() + File.separator + "files";
+            if (new File(parentPath).exists()) {
+                return parentPath;
+            }
+        }
+        return path;
+    }
 
     /**
      * 文件上传

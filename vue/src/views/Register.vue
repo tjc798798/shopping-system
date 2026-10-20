@@ -1,11 +1,5 @@
 <template>
   <div class="login-container">
-    <div class="left-section">
-      <h1 class="title">史上最简单脚手架</h1>
-      <p class="description">一款由 Spring Boot + Vue + Mybatis Plus 开发的前后端分离脚手架。</p>
-      <p class="descr">多角色登录，前后台页面，史上最简单、最方便，最易学的后台电商平台！</p>
-      <img src="../assets/login.svg" alt="登录插画" class="illustration" />
-    </div>
     <div class="right-section">
       <h1 class="welcome-title">欢迎注册</h1>
       <div class="login-type-wrapper">
@@ -99,51 +93,24 @@ export default {
 .login-container {
   display: flex;
   height: 100vh;
-}
-
-.left-section {
-  flex: 6;
-  background-color: #1f2937;
-  color: #fff;
-  display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 20px;
-}
-
-.title {
-  font-size: 40px;
-  font-weight: bold;
-  margin-bottom: 20px;
-}
-
-.description {
-  font-size: 20px;
-  margin-bottom: 20px;
-  text-align: center;
-}
-
-.descr {
-  font-size: 24px;
-  margin-bottom: 20px;
-  text-align: center;
-}
-
-.illustration {
-  width: 400px;
-  height: auto;
-  border-radius: 0;
+  background-image: url('https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=A%20vibrant%20red%20and%20pink%20festive%20shopping%20festival%20background%2C%20featuring%20tall%20red%20buildings%2C%20hot%20air%20balloons%2C%20gift%20boxes%2C%20and%20discount%20coupons%20floating%20in%20the%20air.%20A%20circular%20stage%20in%20the%20center%2C%20bright%20and%20celebratory%20atmosphere%2C%20wide%20angle%2C%20landscape_16_9%2C%203D%20render%20style.&image_size=landscape_16_9');
+  background-size: cover;
+  background-position: center;
 }
 
 .right-section {
-  flex: 4;
+  width: 420px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 20px;
-  background-color: #fff;
+  padding: 40px;
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 10px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
 }
 
 .welcome-title {
